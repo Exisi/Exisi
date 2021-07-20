@@ -6,6 +6,6 @@
  </a>
 
  <a href="https://github.com/Exisi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&count_private=true&theme=default" width="48.5"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&count_private=true&theme=default" width="48.5%"/>
  </a>
 </span>
