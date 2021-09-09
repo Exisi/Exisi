@@ -2,6 +2,9 @@
 
 * Coding to life
 
+### Fantastic
+* **[awesome-python-cn](https://github.com/jobbole/awesome-python-cn)**  
+
 ### Github Status
 <span>
  <a href="https://github.com/Exisi">
