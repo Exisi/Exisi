@@ -13,4 +13,6 @@
 
 ### Button
 * **[SwitchButton](https://github.com/zcweng/SwitchButton)**
+* **[LoadingButtonAndroid](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)**
+* **[FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)**
 
