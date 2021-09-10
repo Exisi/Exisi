@@ -10,3 +10,7 @@
 
 ### Statusbar / Navigationbar
 * **[UltimateBarX](https://github.com/Zackratos/UltimateBarX)**
+
+### Button
+* **[SwitchButton](https://github.com/zcweng/SwitchButton)**
+
