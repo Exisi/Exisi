@@ -1,5 +1,7 @@
-### Implementation Category
-* **[————Awesome-android](https://github.com/JStumpp/awesome-android)**
+### Libraries
+* **[Awesome-android](https://github.com/JStumpp/awesome-android)**                                     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  Android开源库合集                                                                                      <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <i>A curated list of awesome Android packages and resources</i>
 
 
 ### View
