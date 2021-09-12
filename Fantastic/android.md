@@ -44,3 +44,8 @@
 * **[————FloatingActionButtonSpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)**    <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   可弹出选项的悬浮按钮                                                                                    <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <i>A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification</i>
+
+### File
+* **[————MaterialFiles](https://github.com/zhanghai/MaterialFiles)**                                    <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  一个开源的 Material Design 文件管理器，适用于 Android 5.0+                                               <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <i>An open source Material Design file manager, for Android 5.0+.</i>
