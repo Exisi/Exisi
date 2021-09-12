@@ -27,6 +27,10 @@
 * **[————UltimateBarX](https://github.com/Zackratos/UltimateBarX)**                                     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   透明的状态栏和导航栏                                                                                    <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <i>Make Android transparent statusbar and navigationbar easy</i>
+### Widget
+* **[————RWidgetHelper](https://github.com/RuffianZhong/RWidgetHelper)**                                <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  基于原生控件的优化                                                                                      <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <i>Widget optimization base on native widget</i>
 
 ### Button
 * **[————SwitchButton](https://github.com/zcweng/SwitchButton)**                                        <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
