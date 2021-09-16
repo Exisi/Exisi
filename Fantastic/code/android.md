@@ -22,6 +22,10 @@
 * **[————ToastUtils](https://github.com/getActivity/ToastUtils)**                                       <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   适配多场景的弹窗                                                                                        <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <i>Suitable Toast in more scenes</i>
+* **[————StyleableToast](https://github.com/Muddz/StyleableToast)**                                     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  弹窗的样式库                                                                                       <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <i>An Android library that takes the standard toast to the next level with many styling options. Works on all Android versions</i>
+
 
 ### Statusbar / Navigationbar
 * **[————UltimateBarX](https://github.com/Zackratos/UltimateBarX)**                                     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
