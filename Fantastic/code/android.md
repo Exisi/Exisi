@@ -28,7 +28,7 @@
 
 ### ViewPage
   <p align="center"><a href="https://github.com/zhpanvip/BannerViewPager">
-                                                      <b>—————<br>BannerViewPager<br>—————</b>
+                                                      <b>————<br>BannerViewPager<br>————</b>
   </a></p>
   <p align="center">                                      <b>简单优雅的Viewpager轮播图</b></p>
   <p align="center">                                 <i>An awesome banner view for Android</i></p>
@@ -38,7 +38,7 @@
 
 ### Toast
   <p align="center"><a href="https://github.com/getActivity/ToastUtils">
-                                                         <b>—————<br>ToastUtils<br>—————</b>
+                                                         <b>————<br>ToastUtils<br>————</b>
   </a></p>
   <p align="center">                                         <b>适配多场景的弹窗</b></p>
   <p align="center">                                 <i>Suitable Toast in more scenes</i></p>
@@ -46,7 +46,7 @@
   
 
   <p align="center"><a href="https://github.com/Muddz/StyleableToast">
-                                                       <b>—————<br>StyleableToast<br>—————</b>
+                                                       <b>————<br>StyleableToast<br>————</b>
   </a></p>
   <p align="center">                                           <b>弹窗的样式库</b></p>
   <p align="center">
@@ -56,7 +56,7 @@
 
 ### Statusbar / Navigationbar
   <p align="center"><a href="https://github.com/Zackratos/UltimateBarX">
-                                                        <b>—————<br>UltimateBarX<br>—————</b>
+                                                         <b>————<br>UltimateBarX<br>————</b>
   </a></p>
   <p align="center">                                        <b>透明的状态栏和导航栏</b></p>
   <p align="center">                        <i>Make Android transparent statusbar and navigationbar easy</i></p>
@@ -65,7 +65,7 @@
   
 ### Widget
   <p align="center"><a href="https://github.com/RuffianZhong/RWidgetHelper">
-                                                        <b>—————<br>RWidgetHelper<br>—————</b>
+                                                          <b>————<br>RWidgetHelper<br>————</b>
   </a></p>
   <p align="center">                                           <b>基于原生控件的优化</b></p>
   <p align="center">                               <i>Widget optimization base on native widget</i></p>
@@ -74,7 +74,7 @@
 
 ### Button
   <p align="center"><a href="https://github.com/zcweng/SwitchButton">
-                                                         <b>—————<br>SwitchButton<br>—————</b>
+                                                          <b>————<br>SwitchButton<br>————</b>
   </a></p>
   <p align="center">                                            <b>舒适的切换按钮</b></p>
   <p align="center">                  <i>An beautiful+lightweight+custom-style-easy switch widget for Android</i></p>
@@ -90,7 +90,7 @@
   
   
   <p align="center"><a href="https://github.com/leinardi/FloatingActionButtonSpeedDial">
-                                                  <b>—————<br>FloatingActionButtonSpeedDial<br>—————</b>
+                                                  <b>—————————<br>FloatingActionButtonSpeedDial<br>—————————</b>
   </a></p>
   <p align="center">                                         <b>可弹出选项的悬浮按钮</b></p>
   <p align="center">     <i>A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification</i></p>
@@ -99,7 +99,7 @@
 
 ### File
   <p align="center"><a href="https://github.com/zhanghai/MaterialFiles">
-                                                         <b>—————<br>MaterialFiles<br>—————</b>
+                                                         <b>————<br>MaterialFiles<br>————</b>
   </a></p>
   <p align="center">                         <b>一个开源的 Material Design 文件管理器，适用于 Android 5.0+</b></p>
   <p align="center">                       <i>An open source Material Design file manager, for Android 5.0+.</i></p>
