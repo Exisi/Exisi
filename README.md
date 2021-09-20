@@ -1,6 +1,5 @@
-### Preface
-
-* Coding to life
+<h3 align="center">Hello ♪'m Exisi</h3>
+<p align="center">๑ while there is fun, there is code ๑</p>
 
 ### Github Stats
 <span>
