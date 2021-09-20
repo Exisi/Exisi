@@ -1,7 +1,9 @@
 ### Libraries
-* **[Awesome-android](https://snowdream86.gitbooks.io/awesome-android/content)**                    <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  Android开源库合集                                                                                  <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+* **[—————————Awesome-android—————————](https://snowdream86.gitbooks.io/awesome-android/content)**<br>&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp;&emsp;
+  Android开源库合集<br>
   <i>A curated list of awesome Android packages and resources</i>
+
+<br>
 
 ### ViewAdapter
 * **[BaseRecyclerViewAdapterHelper](https://github.com/scwang90/SmartRefreshLayout)**               <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
