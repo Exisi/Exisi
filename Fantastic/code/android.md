@@ -1,7 +1,7 @@
 ### Libraries
   <p align="center">
     <a href="https://snowdream86.gitbooks.io/awesome-android/content">
-      <b>—————————Awesome-android—————————</b>
+      <b>——————————Awesome-android——————————</b>
     </a>
    </p>
   <p align="center"><b>Android开源库合集</b></p>
