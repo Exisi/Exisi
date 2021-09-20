@@ -5,10 +5,10 @@
 ### Github Stats
 <span>
  <a href="https://github.com/Exisi?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=Exisi&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true"  width="410px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Exisi&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true"  width="405px"/>
  </a>
 
  <a href="https://github.com/Exisi/Exisi/tree/main/Fantastic">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&text_color=575f6a&count_private=true&theme=default" width="410px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&text_color=575f6a&count_private=true&theme=default" width="405px"/>
  </a>
 </span>
