@@ -6,7 +6,7 @@
 
 ### View
 * **[————SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**                          <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  更为美观的切换按钮                                                                                      <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  刷新布局                                                                                     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <i>An beautiful+lightweight+custom-style-easy switch widget for Android</i>
   
 * **[————BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
