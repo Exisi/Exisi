@@ -5,7 +5,7 @@
   </a></p>
   <p align="center">                                      <b>Android开源库合集</b></p>
   <p align="center">                     <i>A curated list of awesome Android packages and resources</i></p>
-  <br><p align="center"><b>♪</b></p>
+  <br><p align="center"><b>♪</b></p><br>
 
 
 ### ViewAdapter
