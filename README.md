@@ -9,6 +9,6 @@
  </a>
 &emsp;
  <a href="https://github.com/Exisi/Exisi/tree/main/Fantastic">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&text_color=575f6a&count_private=true&theme=default" width="390px"/>
+  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&text_color=575f6a&count_private=true&theme=default" width="390px"/>
  </a>
 </span>
