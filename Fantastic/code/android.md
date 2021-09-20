@@ -1,7 +1,7 @@
 ### Libraries
   <p align="center">
     <a href="https://snowdream86.gitbooks.io/awesome-android/content">
-     <b> —————————Awesome-android—————————</b>
+      <b>—————————Awesome-android—————————</b>
     </a>
    </p>
   <p align="center"><b>Android开源库合集</b></p>
@@ -9,9 +9,15 @@
 
 
 ### ViewAdapter
-* **[BaseRecyclerViewAdapterHelper](https://github.com/scwang90/SmartRefreshLayout)**               <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  泛用型Adapter，强大并且灵活的RecyclerViewAdapter，大量简化代码                                        <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <i>An beautiful+lightweight+custom-style-easy switch widget for Android</i>
+  <p align="center">
+    <a href="https://github.com/CymChad/BaseRecyclerViewAdapterHelper">
+      <b>—————————BaseRecyclerViewAdapterHelper—————————</b>
+    </a>
+   </p>
+  <p align="center"><b>泛用型Adapter，强大并且灵活的RecyclerViewAdapter，大量简化代码 </b></p>
+  <p align="center"><i>Powerful and flexible RecyclerView Adapter, Please feel free to use this</i></p>
+
+
 
 ### View
 * **[————SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**                      <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
