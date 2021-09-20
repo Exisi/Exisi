@@ -3,10 +3,14 @@
   Android开源库合集                                                                                      <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <i>A curated list of awesome Android packages and resources</i>
 
+### ViewAdapter
+* **[————BaseRecyclerViewAdapterHelper](https://github.com/scwang90/SmartRefreshLayout)**           <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  泛用型Adapter，强大并且灵活的RecyclerViewAdapter，大量简化代码                                        <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <i>An beautiful+lightweight+custom-style-easy switch widget for Android</i>
 
 ### View
-* **[————SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**                          <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  刷新布局                                                                                     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+* **[————SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)**                      <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  刷新布局                                                                                           <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <i>An beautiful+lightweight+custom-style-easy switch widget for Android</i>
   
 * **[————BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)**     <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
