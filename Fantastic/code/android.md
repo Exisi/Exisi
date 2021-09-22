@@ -21,8 +21,8 @@
   <p align="center"><a href="https://github.com/scwang90/SmartRefreshLayout">
                                                      <b>—————<br>SmartRefreshLayout<br>—————</b>
   </a></p>
-  <p align="center">                      <b>泛用型Adapter，强大并且灵活的RecyclerViewAdapter，大量简化代码 </b></p>
-  <p align="center">                   <i>An beautiful+lightweight+custom-style-easy switch widget for Android</i></p>
+  <p align="center">                                    <b>强大，稳定，成熟的下拉刷新框架</b></p>
+  <p align="center">                      <i>Aa strong, stable and mature pull-down refresh layout framework</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
 
