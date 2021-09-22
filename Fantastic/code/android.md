@@ -1,4 +1,3 @@
-<font color=#0000FF>test</font>
 ### Libraries
   <p align="center">
   <a href="https://snowdream86.gitbooks.io/awesome-android/content">
