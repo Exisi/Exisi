@@ -62,15 +62,6 @@
   <p align="center">                        <i>Make Android transparent statusbar and navigationbar easy</i></p>
   <br><p align="center"><b>♪</b></p><br>
   
-  
-### Widget
-  <p align="center"><a href="https://github.com/RuffianZhong/RWidgetHelper">
-                                                          <b>————<br>RWidgetHelper<br>————</b>
-  </a></p>
-  <p align="center">                                           <b>基于原生控件的优化</b></p>
-  <p align="center">                               <i>Widget optimization base on native widget</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-
 
 ### Button
   <p align="center"><a href="https://github.com/zcweng/SwitchButton">
