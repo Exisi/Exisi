@@ -1,7 +1,7 @@
 ### Libraries
   <p align="center">
   <a href="https://snowdream86.gitbooks.io/awesome-android/content">
-                                                    <b>————<br>Awesome-android<br>————</b>
+                                                    <b>————<br>• Awesome-android •<br>————</b>
   </a></p>
   <p align="center">                                      <b>Android开源库合集</b></p>
   <p align="center">                     <i>A curated list of awesome Android packages and resources</i></p>
@@ -10,7 +10,7 @@
 
 ### ViewAdapter
   <p align="center"><a href="https://github.com/CymChad/BaseRecyclerViewAdapterHelper">
-                                                <b>—————————<br>BaseRecyclerViewAdapterHelper<br>—————————</b>
+                                                <b>—————————<br>• BaseRecyclerViewAdapterHelper •<br>—————————</b>
   </a></p>
   <p align="center">                         <b>泛用型Adapter，强大并且灵活的RecyclerViewAdapter，大量简化代码</b></p>
   <p align="center">                    <i>Powerful and flexible RecyclerView Adapter, Please feel free to use this</i></p>
