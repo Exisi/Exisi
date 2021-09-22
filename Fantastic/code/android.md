@@ -38,7 +38,7 @@
 
 ### Toast
   <p align="center"><a href="https://github.com/getActivity/ToastUtils">
-                                                         <b>————<br>ToastUtils<br>————</b>
+                                                         <b>——<br>ToastUtils<br>——</b>
   </a></p>
   <p align="center">                                         <b>适配多场景的弹窗</b></p>
   <p align="center">                                 <i>Suitable Toast in more scenes</i></p>
