@@ -6,6 +6,5 @@
 <h2 align="center"><b>所阅为何?</b></h2>
 <p align="center">基于星标仓库的笔记整理汇总</p>
 
-<br>
 
 <a href="https://www.pixiv.net/artworks/84179374"><h6 align="right">☍ 84179374</h6></a>
