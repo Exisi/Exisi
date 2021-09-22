@@ -1,8 +1,10 @@
-<img width="100%" height="100%" src="https://github.com/Exisi/Exisi/blob/main/Fantastic/top.png?raw=true"></img>
-### What's this page?
-* repositories note base on my stars
 
+
+<h2 align="center"><b>What's this page?</b></h2>
+<p align="center">repositories note base on my stars</p>
+
+<img width="100%" height="100%" src="https://github.com/Exisi/Exisi/blob/main/Fantastic/top.png?raw=true"></img>
 <br>
 
-### 所阅为何?
-* 基于星标仓库的笔记整理汇总
+<h2 align="center"><b>所阅为何?</b></h2>
+<p align="center">基于星标仓库的笔记整理汇总</p>
