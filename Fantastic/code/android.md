@@ -44,15 +44,6 @@
   <p align="center">
            <i>An Android library that takes the standard toast to the next level with many styling options.Works on all Android versions</i></p>
   <br><p align="center"><b>♪</b></p><br>
-
-
-### Statusbar / Navigationbar
-  <p align="center"><a href="https://github.com/Zackratos/UltimateBarX">
-                                                         <b>————<br>UltimateBarX<br>————</b>
-  </a></p>
-  <p align="center">                                        <b>透明的状态栏和导航栏</b></p>
-  <p align="center">                        <i>Make Android transparent statusbar and navigationbar easy</i></p>
-  <br><p align="center"><b>♪</b></p><br>
   
 
 ### Button
