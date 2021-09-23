@@ -17,14 +17,6 @@
   <br><p align="center"><b>♪</b></p><br>
 
 
-### View
-  <p align="center"><a href="https://github.com/scwang90/SmartRefreshLayout">
-                                                     <b>—————<br>SmartRefreshLayout<br>—————</b>
-  </a></p>
-  <p align="center">                                    <b>强大，稳定，成熟的下拉刷新框架</b></p>
-  <p align="center">                      <i>Aa strong, stable and mature pull-down refresh layout framework</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-
 
 ### ViewPage
   <p align="center"><a href="https://github.com/zhpanvip/BannerViewPager">
