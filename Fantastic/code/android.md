@@ -86,13 +86,3 @@
   <p align="center">                                         <b>可弹出选项的悬浮按钮</b></p>
   <p align="center">     <i>A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification</i></p>
   <br><p align="center"><b>♪</b></p><br>
-
-
-### File
-  <p align="center"><a href="https://github.com/zhanghai/MaterialFiles">
-                                                         <b>————<br>MaterialFiles<br>————</b>
-  </a></p>
-  <p align="center">                         <b>一个开源的 Material Design 文件管理器，适用于 Android 5.0+</b></p>
-  <p align="center">                       <i>An open source Material Design file manager, for Android 5.0+.</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-  
