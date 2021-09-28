@@ -75,3 +75,13 @@
   <p align="center">                                         <b>可弹出选项的悬浮按钮</b></p>
   <p align="center">     <i>A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification</i></p>
   <br><p align="center"><b>♪</b></p><br>
+
+
+
+### Dialog
+  <p align="center"><a href="https://github.com/kongzue/DialogX">
+                                                             <b>————<br>DialogX<br>————</b>
+  </a></p>
+  <p align="center">                                            <b>DialogX对话框组件库, 类苹果弹窗</b></p>
+  <p align="center"><i>a dialog component library, It can easily realize various dialog boxes, menus and prompt effects, and has more options for theme extensions such as IOS</i></p>
+  <br><p align="center"><b>♪</b></p><br>
