@@ -83,10 +83,10 @@
 
 
   <p align="center"><a href="https://github.com/Angads25/android-toggle">
-                                                          <b>————<br>android-toggle<br>————</b>
+                                                          <b>————<br>• android-toggle •<br>————</b>
   </a></p>
-  <p align="center">                                            <b>更为精致的切换按钮</b></p>
-  <p align="center">                               <i>Android Library for Custom Switches</i></p>
+  <p align="center">                                              <b>更为精致的切换按钮</b></p>
+  <p align="center">                                     <i>Android Library for Custom Switches</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
   <p align="center"><a href="https://github.com/leandroBorgesFerreira/LoadingButtonAndroid">
