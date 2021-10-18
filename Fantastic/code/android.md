@@ -90,7 +90,7 @@
   <br><p align="center"><b>♪</b></p><br>
 
   <p align="center"><a href="https://github.com/leandroBorgesFerreira/LoadingButtonAndroid">
-                                                       <b>—————<br>LoadingButtonAndroid<br>—————</b>
+                                                       <b>—————<br>• LoadingButtonAndroid •<br>—————</b>
   </a></p>
   <p align="center">                                         <b>带有加载进度动画的按钮</b></p>
   <p align="center">                                <i>A button to substitute the ProgressDialog</i></p>
