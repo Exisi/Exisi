@@ -95,15 +95,6 @@
   <p align="center">                                         <b>带有加载进度动画的按钮</b></p>
   <p align="center">                                <i>A button to substitute the ProgressDialog</i></p>
   <br><p align="center"><b>♪</b></p><br>
-  
-  
-  <p align="center"><a href="https://github.com/leinardi/FloatingActionButtonSpeedDial">
-                                                  <b>—————————<br>FloatingActionButtonSpeedDial<br>—————————</b>
-  </a></p>
-  <p align="center">                                         <b>可弹出选项的悬浮按钮</b></p>
-  <p align="center">     <i>A Floating Action Button Speed Dial implementation for Android that follows the Material Design specification</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-
 
 
 ### Dialog
