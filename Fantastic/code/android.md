@@ -56,6 +56,14 @@
 
 
 ### Toast
+  <p align="center"><a href="https://github.com/Shashank02051997/FancyToast-Android">
+                                                         <b>——<br>• FancyToast-Android •<br>——</b>
+  </a></p>
+  <p align="center">                                     <b>规范化的Toast,标记警告错误提示等</b></p>
+  <p align="center">                                 <i>Make your native android Toasts Fancy</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
+  
   <p align="center"><a href="https://github.com/getActivity/ToastUtils">
                                                          <b>——<br>ToastUtils<br>——</b>
   </a></p>
