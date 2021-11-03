@@ -63,23 +63,6 @@
   <p align="center">                                 <i>Make your native android Toasts Fancy</i></p>
   <br><p align="center"><b>♪</b></p><br>
   
-  
-  <p align="center"><a href="https://github.com/getActivity/ToastUtils">
-                                                         <b>——<br>ToastUtils<br>——</b>
-  </a></p>
-  <p align="center">                                         <b>适配多场景的弹窗</b></p>
-  <p align="center">                                 <i>Suitable Toast in more scenes</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-  
-
-  <p align="center"><a href="https://github.com/Muddz/StyleableToast">
-                                                       <b>————<br>StyleableToast<br>————</b>
-  </a></p>
-  <p align="center">                                           <b>弹窗的样式库</b></p>
-  <p align="center">
-           <i>An Android library that takes the standard toast to the next level with many styling options.Works on all Android versions</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-  
 
 ### Button
   <p align="center"><a href="https://github.com/kyleduo/SwitchButton">
