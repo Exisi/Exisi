@@ -112,10 +112,3 @@
   <p align="center">                          <b>一款针对系统PopupWindow优化的Popup库，功能强大，支持背景模糊，使用简单</b></p>
   <p align="center"><i>a popup library that wraps and improves on the system's PopupWindow. It is a basic library class with a high degree of freedom and a rich API that allows you to do a wide range of popups very easily within the framework of BasePopup</i></p>
   <br><p align="center"><b>♪</b></p><br>
-
-  <p align="center"><a href="https://github.com/kongzue/DialogX">
-                                                                     <b>——<br>DialogX<br>——</b>
-  </a></p>
-  <p align="center">                                            <b>DialogX对话框组件库, 类苹果弹窗</b></p>
-  <p align="center"><i>a dialog component library, It can easily realize various dialog boxes, menus and prompt effects, and has more options for theme extensions such as IOS</i></p>
-  <br><p align="center"><b>♪</b></p><br>
