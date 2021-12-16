@@ -18,6 +18,7 @@
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
 
+<br>
 
 ### Show
 ||||
@@ -31,13 +32,17 @@
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
 
+<br>
 
 ### Markdown Support
 ||||
 | :----: | :---- | :---- |
 |![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
 |||||
+|![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
+|||||
 
+<br>
 
 ### Theme
 ||||
