@@ -14,7 +14,7 @@
 ### Markdown Support
 ||||
 | :----: | :---- | :---- |
-|![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切（支持键盘快捷键、目录、自动预览等） |
+|![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
 |||||
 
 ### Show
