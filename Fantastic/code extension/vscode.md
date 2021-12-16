@@ -3,6 +3,8 @@
 | :----: | :---- | :---- |
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.11.6/1633859780262/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&ssr=false#review-details)|Run code snippet or code file for multiple languages | 运行多个语言的代码片段或代码文件 |
 |||||
+|![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
+|||||
 |![logo](https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.62/1639429155773/Microsoft.VisualStudio.Services.Icons.Default) <br> [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer&ssr=false#review-details) | A customizable extension for colorizing matching brackets | 彩虹括号 |
 |||||
 |![logo](https://solnurkarim.gallery.vsassets.io/_apis/public/gallery/publisher/solnurkarim/extension/html-to-css-autocompletion/1.1.2/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion&ssr=false#review-details)| Provides completion suggestions for classes and ids from markup documents to stylesheets | 为css样式表提供class和id建议。 |
