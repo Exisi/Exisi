@@ -5,6 +5,8 @@
 |||||
 |![logo](https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.62/1639429155773/Microsoft.VisualStudio.Services.Icons.Default) <br> [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer&ssr=false#review-details) | A customizable extension for colorizing matching brackets | 彩虹括号 |
 |||||
+|![logo](https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.6.1/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#review-details)| Launch a development local Server with live reload feature for static & dynamic pages | 启动一个开发本地服务器，为静态和动态页面提供实时加载功能 |
+|||||
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default) <br>  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag&ssr=false#review-details) | Automatically rename paired HTML/XML tag | 运行多个语言的代码片段或代码文件 |
 |||||
 |![logo](https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.5.0/1556863124877/Microsoft.VisualStudio.Services.Icons.Default) <br> [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify&ssr=false#review-details) | Beautify code in place for VS Code | 美化VS code的代码 |
