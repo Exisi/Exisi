@@ -11,15 +11,11 @@
 |![logo](https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.5.0/1556863124877/Microsoft.VisualStudio.Services.Icons.Default) <br> [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify&ssr=false#review-details) | Beautify code in place for VS Code | 美化VS code的代码 |
 |||||
 
-### Markdown Support
-||||
-| :----: | :---- | :---- |
-|![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
-|||||
-
 ### Show
 ||||
 | :----: | :---- | :---- |
+|![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) | Icons for Visual Studio Code | 目录文件的图标显示 |
+|||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
 |||||
 |![logo](https://cdn.vsassets.io/v/M196_20211209.9/_content/Header/default_icon_128.png) <br> [background](https://marketplace.visualstudio.com/items?itemName=ThomasZhang.background) | Change the background | 自定义背景图片 |
@@ -27,3 +23,15 @@
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
 
+### Theme
+||||
+| :----: | :---- | :---- |
+|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default)| [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
+|||||
+
+
+### Markdown Support
+||||
+| :----: | :---- | :---- |
+|![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
+|||||
