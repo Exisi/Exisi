@@ -1,4 +1,3 @@
-
 ### Code Support
 ||||
 | :----: | :---- | :---- |
@@ -10,6 +9,7 @@
 |||||
 |![logo](https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.5.0/1556863124877/Microsoft.VisualStudio.Services.Icons.Default) <br> [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify&ssr=false#review-details) | Beautify code in place for VS Code | 美化VS code的代码 |
 |||||
+
 
 ### Show
 ||||
@@ -23,15 +23,16 @@
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
 
-### Theme
-||||
-| :----: | :---- | :---- |
-|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default)| [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
-|||||
-
 
 ### Markdown Support
 ||||
 | :----: | :---- | :---- |
 |![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
+|||||
+
+
+### Theme
+||||
+| :----: | :---- | :---- |
+|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default)| [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
 |||||
