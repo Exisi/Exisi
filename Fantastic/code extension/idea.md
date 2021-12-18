@@ -21,8 +21,11 @@
 | :----: | :---- | :---- |
 |![]() <br> [Properties to YAML Converter](https://plugins.jetbrains.com/plugin/8000-properties-to-yaml-converter/reviews) | Properties to YAML Converter | Properties文件转换为 YAML 文件格式 |
 |||||
-|![logo](https://plugins.jetbrains.com/files/7179/143853/icon/pluginIcon.svg) <br> [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper) | A enhance plugin for working with Maven | Maven 的增强插件 |
+|![logo](https://plugins.jetbrains.com/files/17170/125578/icon/pluginIcon.svg) <br> [maven-search](https://plugins.jetbrains.com/plugin/17170-maven-search) | Quickly find maven dependencies,Support fuzzy search. | 快速查找maven依赖，支持模糊搜索 |
 |||||
+|![logo](https://plugins.jetbrains.com/files/7179/143853/icon/pluginIcon.svg) <br> [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper) | A enhance plugin for working with Maven | Maven 排除冲突依赖 |
+|||||
+
 
 <br>
 
