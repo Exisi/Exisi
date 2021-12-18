@@ -4,6 +4,8 @@
 ###  Code Support
 ||||
 | :----: | :---- | :---- |
+|![]() <br> [File Path Autocomplete](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) | Auto-completes file paths | 路径扫描补全 |
+|||||
 |![logo](https://plugins.jetbrains.com/files/10080/134110/icon/pluginIcon.svg) <br> [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) | Rainbow Brackets for pycharm | 彩虹括号 |
 |||||
 
