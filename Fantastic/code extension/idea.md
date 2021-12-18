@@ -14,8 +14,18 @@
 |![logo](https://plugins.jetbrains.com/files/10080/134110/icon/pluginIcon.svg) <br> [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) | Rainbow Brackets for IntelliJ | 彩虹括号 |
 |||||
 
+<br>
+
 ### Build
 ||||
 | :----: | :---- | :---- |
 |![logo](https://plugins.jetbrains.com/files/7179/143853/icon/pluginIcon.svg) <br> [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper) | A enhance plugin for working with Maven | Maven 的增强插件 |
+|||||
+
+<br>
+
+###  Show
+||||
+| :----: | :---- | :---- |
+|![]() <br> [SequenceDiagram](https://plugins.jetbrains.com/plugin/8286-sequencediagram) | SequenceDiagram for IntelliJ IDEA | 生成代码的时序图 |
 |||||
