@@ -5,6 +5,8 @@
 | :----: | :---- | :---- |
 |![]() <br> [JavaDoc](https://plugins.jetbrains.com/plugin/7157-javadoc) | Alibaba Java Coding Guidelines plugin support. | 阿里代码规范检查 |
 |||||
+|![]() <br> [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) | Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting. | 代码小地图嵌入到编辑器窗格中。使用您自定义的颜色来突出显示语法，同时适用于浅色和深色主题。 |
+|||||
 |![]() <br> [Alibaba Java Coding Guidelines](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines) | Plugin that generates javadocs on java class elements, like field, method, etc | 生成全局代码注释（alt+insert） |
 |||||
 |![logo](https://plugins.jetbrains.com/files/7638/140894/icon/pluginIcon.svg) <br> [Codota AI Autocomplete for Java and JavaScript](https://plugins.jetbrains.com/plugin/7638-codota-ai-autocomplete-for-java-and-javascript) | Better code completions using AI for Java and JavaScript | 对 Java 和 JavaScript 提供 AI 代码补全提示支持 |
