@@ -4,6 +4,6 @@
   </a></p>
   <p align="center">                                           <b>中国独立开发者项目列表</b></p>
   </a></p>
-                                                         <p align="center"><i>Read:2021.02.19</i></p>
+                                                         <p align="center"><i>Read:2022.02.19</i></p>
   <p align="center"><b>♪</b></p><br>
    
