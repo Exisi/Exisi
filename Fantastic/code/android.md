@@ -13,9 +13,16 @@
                                                 <b>—————————<br>• BaseRecyclerViewAdapterHelper •<br>—————————</b>
   </a></p>
   <p align="center">                         <b>泛用型Adapter，强大并且灵活的RecyclerViewAdapter，大量简化代码</b></p>
+    <p align="center">                                               <b><i>目前失去维护</b></i></p>
+    <p align="center">                                         <i>may no longer maintained</i></p>
   <p align="center">                    <i>Powerful and flexible RecyclerView Adapter, Please feel free to use this</i></p>
   <br><p align="center"><b>♪</b></p><br>
   
+  <p align="center"><a href="https://github.com/CymChad/BaseRecyclerViewAdapterHelper">
+                                                                 <b>—<br> BRV <br>—</b>
+  </a></p>
+  <p align="center">                         <b>新晋RecyclerViewAdapter框架，比BRVAH/MultiType更强大/优雅</b></p>
+  <br><p align="center"><b>♪</b></p><br>
 
 ### Toast
   <p align="center"><a href="https://github.com/Shashank02051997/FancyToast-Android">
