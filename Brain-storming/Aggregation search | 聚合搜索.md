@@ -1,7 +1,7 @@
 EN
 ### What are the difficulties with aggregate search?
 - First of all, let's talk about a small problem. Basically, when using search engine, will you open all websites?
-- problem is obvious, when we can't find the solution we want, we have to go back to the search engine's web page, which leads to repeated operations and greatly consumes our patience.
+- It is obvious that we can't find the solution we want, we have to go back to the search engine's web page, which leads to repeated operations and greatly consumes our patience.
 
 <br>
 
