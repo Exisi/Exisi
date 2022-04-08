@@ -19,7 +19,7 @@ EN
 
 <br>
 
-### 3. Implement quick closing of web pages
+### 3. close web pages
 - In some cases, we may not use keyboard. To solve this, I use [Close This Tab](https://chrome.google.com/webstore/detail/close-this-tab/hdoplfhlfoagdghmfamhnakmjjffeila) this plugin.
 - It can close the page by clicking on the edge of the page, Setting it at the top works great.
 
@@ -30,7 +30,7 @@ EN
 
 <br>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br>
 
@@ -56,7 +56,7 @@ CN
 
 <br>
 
-###  3. 实现网页的快速关闭
+###  3. 关闭网页
 - 在某些情况下，我们可能无法操作键盘。为了解决这个问题，我使用 [Close This Tab](https://chrome.google.com/webstore/detail/close-this-tab/hdoplfhlfoagdghmfamhnakmjjffeila) 这个插件。
 - 它可以在网页的边缘点击使网页关闭，将它设置在顶部非常有效
 
