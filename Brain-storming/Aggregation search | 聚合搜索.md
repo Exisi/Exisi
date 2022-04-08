@@ -13,7 +13,7 @@ EN
 <br>
 
 ### 2. Quickly switch to different search engine
-- When we switch search engines, we can not carry search keywords, you need to copy the search keywords to the search box. I think this is not friendly
+- When we switch search engines, we can't carry search keywords, you need to copy the search keywords to the search box. I think it is not friendly.
 - I found a plugin for page switching ([one-click switching](https://chrome.google.com/webstore/detail/pchjdhcdlgghofamcpncdlhdonbeaplk)), by setting it, you can quickly switch to a specific search engine with search keywords.
 - You can use it to achieve a way like [Bing->Baidu->Google->Bing].
 
