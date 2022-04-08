@@ -25,7 +25,7 @@ EN
 
 <br>
 
-### 3. Final implementation
+### 3. Final
 - Combining with all operations, the most ideal aggregation search is completed.
 
 <br>
