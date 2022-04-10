@@ -6,4 +6,11 @@
   </a></p>
                                                          <p align="center"><i>Read:2022.02.19</i></p>
   <p align="center"><b>♪</b></p><br>
-   
+  
+  <p align="center"><a href="https://github.com/zhaoolee/ChromeAppHeroes">
+                                                            <b>————<br>• ChromeAppHeroes •<br>————</b>
+  </a></p>
+  <p align="center">                                               <b>优秀的谷歌插件列表</b></p>
+  </a></p>
+                                                         <p align="center"><i>Read:2022.04.10</i></p>
+  <p align="center"><b>♪</b></p><br>
