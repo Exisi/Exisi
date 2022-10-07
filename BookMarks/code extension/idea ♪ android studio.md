@@ -34,4 +34,7 @@
 ||||
 | :----: | :---- | :---- |
 |![]() <br> [SequenceDiagram](https://plugins.jetbrains.com/plugin/8286-sequencediagram) | SequenceDiagram for IntelliJ IDEA | 生成代码的时序图 |
+||||
+|![logo](https://plugins.jetbrains.com/files/9406/134108/icon/pluginIcon.svg) <br> [Code Screenshots](https://plugins.jetbrains.com/plugin/9406-code-screenshots) | Select code to screenshots | 代码选择截图 |
 |||||
+
