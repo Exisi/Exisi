@@ -14,3 +14,12 @@
   </a></p>
                                                          <p align="center"><i>mark:114</i></p>
   <p align="center"><b>♪</b></p><br>
+  
+  <p align="center"><a href="https://github.com/ahmadawais/awesome-random-stuff">
+                                                            <b>————<br>• awesome-random-stuff •<br>————</b>
+  </a></p>
+  <p align="center">                                                  <b>有趣的随机项目集合</b></p>
+  <p align="center">                   <b>Collection of interesting & awesome random stuff I find on the World Wide Web</b></p>
+  </a></p>
+                                                         <p align="center"><i>Read:2021.12.10</i></p>
+  <p align="center"><b>♪</b></p><br>
