@@ -1,4 +1,11 @@
 ### Know
+  <p align="center"><a href="https://github.com/ZutJoe/Koala_hacker_news">
+                                                            <b>————<br>• Koala_hacker_news •<br>————</b>
+  </a></p>
+  <p align="center">                                                  <b>hacker news 周报</b></p>
+  </a></p>
+  <p align="center"><b>♪</b></p><br>
+
   <p align="center"><a href="https://github.com/1c7/chinese-independent-developer">
                                                      <b>————<br>• chinese-independent-developer •<br>————</b>
   </a></p>
