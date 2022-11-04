@@ -48,6 +48,8 @@
 ### Markdown Support
 ||||
 | :----: | :---- | :---- |
+|![logo](https://mushan.gallerycdn.vsassets.io/extensions/mushan/vscode-paste-image/1.0.4/1548255946926/Microsoft.VisualStudio.Services.Icons.Default) <br> [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) | Paste image directly from clipboard to markdown/asciidoc(or other file) | 将图像直接从剪贴板粘贴到markdown/asciidoc（或其他文件）[Ctrl+Alt+V] |
+|||||
 |![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
 |||||
 |![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
