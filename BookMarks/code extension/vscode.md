@@ -28,6 +28,13 @@
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
 
+<br>
+
+### Git
+||||
+| :----: | :---- | :---- |
+|![logo](https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.11.405/1667552964213/Microsoft.VisualStudio.Services.Icons.Default) <br>[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)| Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more | 增强 VS Code 中的 Git — 通过 Git 责任注释和 CodeLens 使代码作者一目了然，无缝导航和探索 Git 存储库，通过丰富的可视化和强大的比较命令获得有价值的见解等等 |
+|||||
 
 <br>
 
