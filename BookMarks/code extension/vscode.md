@@ -7,6 +7,8 @@
 |||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
 |||||
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
+|||||
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
 |||||
 |![logo](https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.62/1639429155773/Microsoft.VisualStudio.Services.Icons.Default) <br> [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer&ssr=false#review-details) | A customizable extension for colorizing matching brackets | 彩虹括号 |
