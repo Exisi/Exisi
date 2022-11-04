@@ -7,6 +7,8 @@
 |||||
 |![logo](https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.62/1639429155773/Microsoft.VisualStudio.Services.Icons.Default) <br> [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer&ssr=false#review-details) | A customizable extension for colorizing matching brackets | 彩虹括号 |
 |||||
+|![logo](https://shardulm94.gallerycdn.vsassets.io/extensions/shardulm94/trailing-spaces/0.4.1/1657508114419/Microsoft.VisualStudio.Services.Icons.Default) <br> [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | Highlight trailing spaces and delete them in a flash! | 高亮分号后门多余的空格 |
+|||||
 |![logo](https://solnurkarim.gallery.vsassets.io/_apis/public/gallery/publisher/solnurkarim/extension/html-to-css-autocompletion/1.1.2/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion&ssr=false#review-details)| Provides completion suggestions for classes and ids from markup documents to stylesheets | 为css样式表提供class和id建议。 |
 |||||
 |![logo](https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.6.1/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#review-details)| Launch a development local Server with live reload feature for static & dynamic pages | 启动一个开发本地服务器，为静态和动态页面提供实时加载功能 |
@@ -19,6 +21,7 @@
 ||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
+
 
 <br>
 
