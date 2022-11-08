@@ -39,7 +39,8 @@
 |||||
 |![logo](https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.11.405/1667552964213/Microsoft.VisualStudio.Services.Icons.Default) <br>[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)| Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more | 增强 VS Code 中的 Git — 通过 Git 责任注释和 CodeLens 使代码作者一目了然，无缝导航和探索 Git 存储库，通过丰富的可视化和强大的比较命令获得有价值的见解等等 |
 |||||
-
+|![logo](https://redjue.gallerycdn.vsassets.io/extensions/redjue/git-commit-plugin/1.1.0/1652755110193/Microsoft.VisualStudio.Services.Icons.Default) <br>[git-commit-plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin)| Automatically generate git commit | 自动生成git提交信息 |
+|||||
 
 <br>
 
