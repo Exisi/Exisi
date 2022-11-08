@@ -33,8 +33,13 @@
 ### Git
 ||||
 | :----: | :---- | :---- |
+|![logo](https://mhutchie.gallerycdn.vsassets.io/extensions/mhutchie/git-graph/1.30.0/1617594001998/Microsoft.VisualStudio.Services.Icons.Default) <br>[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)| View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want! | 查看存储库的Git图，并从图中轻松执行Git操作。可配置为您想要的样子！ |
+|||||
+|![logo](https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.6.19/1635531678980/Microsoft.VisualStudio.Services.Icons.Default) <br>[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)| xView git log, file history, compare branches or commits | 查看git日志、文件历史记录、比较分支或提交 |
+|||||
 |![logo](https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.11.405/1667552964213/Microsoft.VisualStudio.Services.Icons.Default) <br>[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)| Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more | 增强 VS Code 中的 Git — 通过 Git 责任注释和 CodeLens 使代码作者一目了然，无缝导航和探索 Git 存储库，通过丰富的可视化和强大的比较命令获得有价值的见解等等 |
 |||||
+
 
 <br>
 
