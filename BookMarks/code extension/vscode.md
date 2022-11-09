@@ -15,11 +15,11 @@
 |||||
 |![logo](https://solnurkarim.gallery.vsassets.io/_apis/public/gallery/publisher/solnurkarim/extension/html-to-css-autocompletion/1.1.2/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion&ssr=false#review-details)| Provides completion suggestions for classes and ids from markup documents to stylesheets | 为css样式表提供class和id建议。 |
 |||||
+|![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) | Code formatter using prettier | 使用prettier的代码格式化代码 |
+|||||
 |![logo](https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.6.1/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#review-details)| Launch a development local Server with live reload feature for static & dynamic pages | 启动一个开发本地服务器，为静态和动态页面提供实时加载功能 |
 |||||
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default) <br>  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag&ssr=false#review-details) | Automatically rename paired HTML/XML tag | 自动补全成对的HTML/XML标记 |
-|||||
-|![logo](https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.5.0/1556863124877/Microsoft.VisualStudio.Services.Icons.Default) <br> [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify&ssr=false#review-details) | Beautify code in place for VS Code | 美化VS code的代码 |
 |||||
 |![logo](https://techer.gallery.vsassets.io/_apis/public/gallery/publisher/techer/extension/open-in-browser/2.0.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br> [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser&ssr=false#review-details) | This allows you to open the current file in your default browser or application. | 在浏览器中打开文件（HTML） |
 ||||
