@@ -51,7 +51,7 @@
 |||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
 |||||
-|![logo](https://cdn.vsassets.io/v/M196_20211209.9/_content/Header/default_icon_128.png) <br> [background](https://marketplace.visualstudio.com/items?itemName=ThomasZhang.background) | Change the background | 自定义背景图片 |
+|![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) | The background image extension for VSCode | 自定义背景图片 |
 |||||
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
