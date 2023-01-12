@@ -4,9 +4,9 @@
 ### Github Stats
 <span>
  <a  href="https://github.com/Exisi/Exisi/tree/main/Brain-storming">
-  <img min-device-width="390px" src="https://github-readme-stats.vercel.app/api?username=Exisi&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true" width="50.5%"/>
+  <img min-device-width="370px" src="https://github-stats.exi.software/api?username=Exisi&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true" width="50.5%"/>
  </a>
  <a href="https://github.com/Exisi/Exisi/tree/main/BookMarks">
-  <img  align="left" min-device-width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exisi&layout=compact&text_color=575f6a&count_private=true&theme=default" width="42.5%"/>
+  <img  align="left" min-device-width="370px" src="https://github-stats.exi.software/api/top-langs/?username=Exisi&layout=compact&text_color=575f6a&count_private=true&theme=default" width="35.5%"/>
  </a>
 </span>
