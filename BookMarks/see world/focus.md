@@ -19,7 +19,7 @@
   </a></p>
   <p align="center">                                               <b>优秀的谷歌插件列表</b></p>
   </a></p>
-                                                         <p align="center"><i>mark:114</i></p>
+                                                         <p align="center"><i>mark:116</i></p>
   <p align="center"><b>♪</b></p><br>
   
   <p align="center"><a href="https://github.com/ahmadawais/awesome-random-stuff">
