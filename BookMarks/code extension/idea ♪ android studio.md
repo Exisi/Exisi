@@ -1,6 +1,3 @@
-
-
-
 ###  Code Support
 ||||
 | :----: | :---- | :---- |
@@ -11,6 +8,8 @@
 |![]() <br> [Alibaba Java Coding Guidelines](https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines) | Plugin that generates javadocs on java class elements, like field, method, etc | 生成全局代码注释（alt+insert） |
 |||||
 |![logo](https://plugins.jetbrains.com/files/7638/140894/icon/pluginIcon.svg) <br> [Codota AI Autocomplete for Java and JavaScript](https://plugins.jetbrains.com/plugin/7638-codota-ai-autocomplete-for-java-and-javascript) | Better code completions using AI for Java and JavaScript | 对 Java 和 JavaScript 提供 AI 代码补全提示支持 |
+|||||
+|![logo](https://plugins.jetbrains.com/files/15120/158023/icon/pluginIcon.svg) <br> [Momo Code Sec Inspector (Java)](https://plugins.jetbrains.com/plugin/15120-momo-code-sec-inspector-java-) | A Java static code inspector with one-click fix capability. | Java静态代码安全审计插件 |
 |||||
 |![logo](https://plugins.jetbrains.com/files/10080/134110/icon/pluginIcon.svg) <br> [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) | Rainbow Brackets for IntelliJ | 彩虹括号 |
 |||||
