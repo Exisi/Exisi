@@ -38,6 +38,15 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <br><p align="center"><b>♪</b></p><br>
 
 
+### Guide
+  <p align="center"><a href="https://github.com/shipshapecode/shepherd">
+                                                      <b>—————<br>shepherd<br>—————</b>
+  </a></p>
+  <p align="center">                                        <b>指导您的用户访问您的应用程序</b></p>
+    <p align="center">                            <i>Guide your users through a tour of your app</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+
 ### Background
   <p align="center"><a href="https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/hustcc/canvas-nest.js">
                                                     <b>—————<br>canvas-nest.js<br>—————</b>
