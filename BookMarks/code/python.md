@@ -1,4 +1,4 @@
-### library Category
+### library
   
   <p align="center"><a href="https://github.com/jobbole/awesome-python-cn">
                                                        <b>————<br>• awesome-python-cn •<br>————</b>
@@ -17,4 +17,13 @@
   </a></p>
   <p align="center">                               <b>基于Tkinter的现代可定制python UI库</b></p>
   <p align="center">                    <i>A modern and customizable python UI-library based on Tkinter</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+
+### Image
+  <p align="center"><a href="https://github.com/python-pillow/Pillow">
+                                                         <b>——<br>• Pillow •<br>——</b>
+  </a></p>
+  <p align="center">                               <b>Pillow 为您的 Python 解释器添加了图像处理功能。</b></p>
+  <p align="center">        <i>Pillow adds image processing capabilities to your Python interpreter.</i></p>
   <br><p align="center"><b>♪</b></p><br>
