@@ -70,17 +70,16 @@
 
 <br>
 
+### Theme
+||||
+| :----: | :---- | :---- |
+|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
+|||||
+
+<br>
 
 ### Check
 ||||
 | :----: | :---- | :---- |
 |![logo](https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.16.0/1675324749221/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)| A basic spell checker that works well with code and documents. | 一个基本的拼写检查器，适用于代码和文档。 |
-|||||
-
-<br>
-
-### Theme
-||||
-| :----: | :---- | :---- |
-|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
 |||||
