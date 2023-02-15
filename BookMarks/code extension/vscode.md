@@ -60,17 +60,6 @@
 
 <br>
 
-### Explorer
-||||
-| :----: | :---- | :---- |
-|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.7.0/1662164797357/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | Easily switch between projects | 在项目之间轻松切换 |
-|||||
-|![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
-|||||
-
-<br>
-
-
 ### Markdown Support
 ||||
 | :----: | :---- | :---- |
@@ -79,6 +68,17 @@
 |![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
 |||||
 |![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
+|||||
+
+<br>
+
+
+### Explorer
+||||
+| :----: | :---- | :---- |
+|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.7.0/1662164797357/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | Easily switch between projects | 在项目之间轻松切换 |
+|||||
+|![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
 |||||
 
 <br>
