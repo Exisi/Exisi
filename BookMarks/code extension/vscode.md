@@ -47,13 +47,13 @@
 | :----: | :---- | :---- |
 |![logo](https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.11.1/1619866227538/Microsoft.VisualStudio.Services.Icons.Default) <br> [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | This extension your styles files looking for colors and generate a colored background (using the color) for each of them. | 这个扩展你的样式文件寻找颜色并为它们中的每一个生成彩色背景（使用颜色） |
 |||||
+|![logo](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default) <br> [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | [Take beautiful screenshots of your code](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 此扩展将在编辑器中内联显示导入包的大小。该扩展利用 webpack 来检测导入的大小。 |
+|||||
 |![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
 |||||
 |![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) | Icons for Visual Studio Code | 目录文件的图标显示 |
 |||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
-|||||
-|![logo](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default) <br> [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | [Take beautiful screenshots of your code](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 此扩展将在编辑器中内联显示导入包的大小。该扩展利用 webpack 来检测导入的大小。 |
 |||||
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
