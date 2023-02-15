@@ -53,9 +53,9 @@
 |||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
 |||||
-|![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) | The background image extension for VSCode | 自定义背景图片 |
-|||||
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
+|||||
+|![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
 |||||
 
 <br>
@@ -75,6 +75,8 @@
 ### Theme
 ||||
 | :----: | :---- | :---- |
+|![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) | The background image extension for VSCode | 自定义背景图片 |
+|||||
 |![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
 |||||
 
