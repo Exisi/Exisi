@@ -82,5 +82,5 @@
 ### Theme
 ||||
 | :----: | :---- | :---- |
-|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default)| [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
+|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
 |||||
