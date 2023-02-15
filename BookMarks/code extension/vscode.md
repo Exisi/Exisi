@@ -45,6 +45,8 @@
 ### Show
 ||||
 | :----: | :---- | :---- |
+|![logo](https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.11.1/1619866227538/Microsoft.VisualStudio.Services.Icons.Default) <br> [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | This extension your styles files looking for colors and generate a colored background (using the color) for each of them. | 这个扩展你的样式文件寻找颜色并为它们中的每一个生成彩色背景（使用颜色） |
+|||||
 |![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
 |||||
 |![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) | Icons for Visual Studio Code | 目录文件的图标显示 |
