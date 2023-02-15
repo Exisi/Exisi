@@ -53,6 +53,8 @@
 |||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
 |||||
+|![logo](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default) <br> [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | [Take beautiful screenshots of your code](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | 此扩展将在编辑器中内联显示导入包的大小。该扩展利用 webpack 来检测导入的大小。 |
+|||||
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
 |![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
