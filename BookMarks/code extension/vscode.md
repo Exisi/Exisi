@@ -1,8 +1,16 @@
-### Code
+### AI
 ||||
 | :----: | :---- | :---- |
 |![logo](https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default) <br>[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)| Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning. | 为Visual Studio代码中的Python、TypeScript/JavaScript和Java开发人员提供了AI辅助开发功能，并基于对代码上下文的理解和机器学习进行深入了解 |
 |||||
+|![logo](https://tabnine.gallerycdn.vsassets.io/extensions/tabnine/tabnine-vscode/3.6.38/1675163872433/Microsoft.VisualStudio.Services.Icons.Default) <br>[Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)| Tabnine is an AI code assistant that makes you a better developer. Tabnine will increase your development velocity with real-time code completions in all the most popular coding languages and IDEs. | Tabnine 是一个 AI 代码助手，可以让你成为更好的开发者。 Tabnine 将通过所有最流行的编码语言和 IDE 中的实时代码完成来提高您的开发速度。 |
+|||||
+
+<br>
+
+### Code
+||||
+| :----: | :---- | :---- |
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.11.6/1633859780262/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&ssr=false#review-details)|Run code snippet or code file for multiple languages | 运行多个语言的代码片段或代码文件 |
 |||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
