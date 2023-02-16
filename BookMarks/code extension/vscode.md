@@ -1,4 +1,4 @@
-### Code Support
+### Code
 ||||
 | :----: | :---- | :---- |
 |![logo](https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default) <br>[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)| Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning. | 为Visual Studio代码中的Python、TypeScript/JavaScript和Java开发人员提供了AI辅助开发功能，并基于对代码上下文的理解和机器学习进行深入了解 |
@@ -6,10 +6,6 @@
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.11.6/1633859780262/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&ssr=false#review-details)|Run code snippet or code file for multiple languages | 运行多个语言的代码片段或代码文件 |
 |||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
-|||||
-|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
-|||||
-|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
 |||||
 |![logo](https://shardulm94.gallerycdn.vsassets.io/extensions/shardulm94/trailing-spaces/0.4.1/1657508114419/Microsoft.VisualStudio.Services.Icons.Default) <br> [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | Highlight trailing spaces and delete them in a flash! | 高亮分号后门多余的空格 |
 |||||
@@ -27,6 +23,15 @@
 |||||
 
 <br>
+
+### Support
+||||
+| :----: | :---- | :---- |
+|||||
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
+|||||
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
+|![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
 
 ### Git
 ||||
