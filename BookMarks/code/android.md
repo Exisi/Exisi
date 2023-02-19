@@ -64,3 +64,12 @@
   <p align="center">                      <b>一款针对系统PopupWindow优化的Popup库，功能强大，支持背景模糊，使用简单</b></p>
   <p align="center"><i>a popup library that wraps and improves on the system's PopupWindow. It is a basic library class with a high degree of freedom and a rich API that allows you to do a wide range of popups very easily within the framework of BasePopup</i></p>
   <br><p align="center"><b>♪</b></p><br>
+  
+
+### Dev
+  <p align="center"><a href="https://github.com/BolexLiu/AutoEx">
+                                                             <b>——<br>AutoEx<br>——</b>
+  </a></p>
+  <p align="center">                      <b>帮助Android开发者，让项目在崩溃时从异常堆栈中，自动寻找Stack Overflow的回答</b></p>
+  <p align="center"><i>To help Android developers, let the project automatically find the Stack Overflow answer from the exception stack when the project crashes.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
