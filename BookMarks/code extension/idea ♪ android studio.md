@@ -11,7 +11,7 @@
 |||||
 |![logo](https://plugins.jetbrains.com/files/15120/158023/icon/pluginIcon.svg) <br> [Momo Code Sec Inspector (Java)](https://plugins.jetbrains.com/plugin/15120-momo-code-sec-inspector-java-) | A Java static code inspector with one-click fix capability. | Java静态代码安全审计插件 |
 |||||
-|![logo](https://plugins.jetbrains.com/files/20710/268288/icon/pluginIcon.svg) <br> [Rainbow Brackets Lite](https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite/reviews) | Rainbow Brackets for pycharm | 彩虹括号 |
+|![logo](https://plugins.jetbrains.com/files/20710/268288/icon/pluginIcon.svg) <br> [Rainbow Brackets Lite](https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite/reviews) | Rainbow Brackets for idea | 彩虹括号 |
 |||||
 
 
