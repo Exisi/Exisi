@@ -5,6 +5,8 @@
 |||||
 |![logo](https://tabnine.gallerycdn.vsassets.io/extensions/tabnine/tabnine-vscode/3.6.38/1675163872433/Microsoft.VisualStudio.Services.Icons.Default) <br>[Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)| Tabnine is an AI code assistant that makes you a better developer. Tabnine will increase your development velocity with real-time code completions in all the most popular coding languages and IDEs. | Tabnine 是一个 AI 代码助手，可以让你成为更好的开发者。 Tabnine 将通过所有最流行的编码语言和 IDE 中的实时代码完成来提高您的开发速度。 |
 |||||
+|![logo](https://gencay.gallerycdn.vsassets.io/extensions/gencay/vscode-chatgpt/3.9.5/1678283624254/Microsoft.VisualStudio.Services.Icons.Default) <br>[ChatGPT](https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt)| Use browser or official API integration for OpenAI ChatGPT, GPT3.5, GPT3 and Codex. Create new files & projects with one click.  | 使用浏览器或官方 API 集成 OpenAI ChatGPT、GPT3.5、GPT3 和 Codex。一键创建新文件和项目。 |
+|||||
 
 <br>
 
