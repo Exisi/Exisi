@@ -3,7 +3,7 @@
 | :----: | :---- | :---- |
 |![logo](https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default) <br>[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)| Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning. | 为Visual Studio代码中的Python、TypeScript/JavaScript和Java开发人员提供了AI辅助开发功能，并基于对代码上下文的理解和机器学习进行深入了解 |
 |||||
-|![logo](https://whensunset.gallerycdn.vsassets.io/extensions/whensunset/chatgpt-china/5.1.2/1679137385086/Microsoft.VisualStudio.Services.Icons.Default) <br>[ChatGPT](https://marketplace.visualstudio.com/items?itemName=WhenSunset.chatgpt-china)| A ChatGPT plug-in that supports Chinese | 一个 ChatGPT 的插件，支持中文 |
+|![logo](https://whensunset.gallerycdn.vsassets.io/extensions/whensunset/chatgpt-china/5.1.2/1679137385086/Microsoft.VisualStudio.Services.Icons.Default) <br>[ChatGPT中文版](https://marketplace.visualstudio.com/items?itemName=WhenSunset.chatgpt-china)| A ChatGPT plug-in that supports Chinese | 一个 ChatGPT 的插件，支持中文 |
 |||||
 |![logo](https://tabnine.gallerycdn.vsassets.io/extensions/tabnine/tabnine-vscode/3.6.38/1675163872433/Microsoft.VisualStudio.Services.Icons.Default) <br>[Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)| Tabnine is an AI code assistant that makes you a better developer. Tabnine will increase your development velocity with real-time code completions in all the most popular coding languages and IDEs. | Tabnine 是一个 AI 代码助手，可以让你成为更好的开发者。 Tabnine 将通过所有最流行的编码语言和 IDE 中的实时代码完成来提高您的开发速度。 |
 |||||
@@ -85,6 +85,8 @@
 |![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
 |||||
 |![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
+|||||
+|![logo](https://gera2ld.gallerycdn.vsassets.io/extensions/gera2ld/markmap-vscode/0.0.17/1675774392182/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) | Visualize your markdown in VSCode | 在 VSCode 中可视化你的Markdown |
 |||||
 
 <br>
