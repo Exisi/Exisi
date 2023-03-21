@@ -31,7 +31,7 @@
 
 ### Pack
   <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe">
-                                                         <b>——————<br>• pyinstaller •<br>——————</b>
+                                                         <b>—————<br>• pyinstaller •<br>—————</b>
   </a></p>
   <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
   <p align="center">                            <i>将 Python 程序冻结（打包）为独立的可执行文件</i></p>
