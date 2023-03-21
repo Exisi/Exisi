@@ -27,3 +27,19 @@
   <p align="center">                               <b>Pillow 为您的 Python 解释器添加了图像处理功能。</b></p>
   <p align="center">        <i>Pillow adds image processing capabilities to your Python interpreter.</i></p>
   <br><p align="center"><b>♪</b></p><br>
+
+
+### Pack
+  <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe">
+                                                         <b>——————<br>• pyinstaller •<br>——————</b>
+  </a></p>
+  <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
+  <p align="center">                            <i>将 Python 程序冻结（打包）为独立的可执行文件</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
+  <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe">
+                                                         <b>——————<br>• auto-py-to-exe •<br>——————</b>
+  </a></p>
+  <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
+  <p align="center">                         <i>Converts .py to .exe using a simple graphical interface</i></p>
+  <br><p align="center"><b>♪</b></p><br>
