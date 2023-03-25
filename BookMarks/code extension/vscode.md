@@ -72,7 +72,11 @@
 |||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
 |||||
+|![logo](https://kjhx.gallerycdn.vsassets.io/extensions/kjhx/vscode-lifeline/1.2.0/1607230595236/Microsoft.VisualStudio.Services.Icons.Default) <br> [Lifeline: Clock & battery](https://marketplace.visualstudio.com/items?itemName=kjhx.vscode-lifeline) | Display a clock and current battery state in the status bar. | 在状态栏中显示时钟和当前电池状态。 |
+|||||
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
+|||||
+|![logo](https://alexkainzinger.gallerycdn.vsassets.io/extensions/alexkainzinger/resource-watchdog/1.2.0/1665243951204/Microsoft.VisualStudio.Services.Icons.Default) <br> [Resource Watchdog](https://marketplace.visualstudio.com/items?itemName=alexkainzinger.resource-watchdog) | Displays current CPU stats, Memory, Battery stats, and more | 显示当前CPU统计数据、内存、电池统计数据等 |
 |||||
 
 <br>
