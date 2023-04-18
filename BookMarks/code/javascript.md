@@ -69,3 +69,12 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <p align="center">                                        <b>javascript 的跨浏览器 QRCode 生成器</b></p>
     <p align="center">                              <i>Cross-browser QRCode generator for javascript</i></p>
   <br><p align="center"><b>♪</b></p><br>
+
+### Format
+  <p align="center"><a href="https://github.com/iamkun/dayjs">
+      <b>——<br>dayjs<br>——</b>
+  </a></p>
+  
+  <p align="center">                                        <b>Day.js 是一个轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样</b></p>
+    <p align="center">                            <i>Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
