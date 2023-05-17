@@ -78,10 +78,10 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <br><p align="center"><b>♪</b></p><br>
 
 ### Format
-  <p align="center"><a href="https://github.com/iamkun/dayjs">
-      <b>——<br>dayjs<br>——</b>
+  <p align="center"><a href="https://github.com/moment/moment">
+                                                                   <b>——<br>• moment •<br>——</b>
   </a></p>
   
-  <p align="center">                                        <b>Day.js 是一个轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样</b></p>
-    <p align="center">                            <i>Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API.</i></p>
+  <p align="center">                                        <b>在 javascript 中解析、验证、操作和显示日期。</b></p>
+    <p align="center">                            <i>Parse, validate, manipulate, and display dates in javascript.</i></p>
   <br><p align="center"><b>♪</b></p><br>
