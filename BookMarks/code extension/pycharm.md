@@ -1,7 +1,7 @@
 ###  Code Support
 ||||
 | :----: | :---- | :---- |
-|![]() <br> [File Path Autocomplete](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets) | Auto-completes file paths | 路径扫描补全 |
+|![]() <br> [File Path Autocomplete](https://plugins.jetbrains.com/plugin/11088-file-path-autocomplete) | Auto-completes file paths | 路径扫描补全 |
 |||||
 |![logo](https://plugins.jetbrains.com/files/17320/306936/icon/pluginIcon.svg) <br> [HighlightBracketPair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair) | The plugin can color highlight the Bracket Pair in editor for IntelliJ. | 该插件可以在 IntelliJ 的编辑器中用颜色突出显示括号对。 |
 |||||
