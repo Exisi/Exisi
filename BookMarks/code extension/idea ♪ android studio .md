@@ -1,4 +1,4 @@
-###  Code Support
+###  Code Guidelines
 ||||
 | :----: | :---- | :---- |
 |![]() <br> [JavaDoc](https://plugins.jetbrains.com/plugin/7157-javadoc) | Alibaba Java Coding Guidelines plugin support. | 阿里代码规范检查 |
@@ -10,6 +10,14 @@
 |![logo](https://plugins.jetbrains.com/files/7638/140894/icon/pluginIcon.svg) <br> [Codota AI Autocomplete for Java and JavaScript](https://plugins.jetbrains.com/plugin/7638-codota-ai-autocomplete-for-java-and-javascript) | Better code completions using AI for Java and JavaScript | 对 Java 和 JavaScript 提供 AI 代码补全提示支持 |
 |||||
 |![logo](https://plugins.jetbrains.com/files/15120/158023/icon/pluginIcon.svg) <br> [Momo Code Sec Inspector (Java)](https://plugins.jetbrains.com/plugin/15120-momo-code-sec-inspector-java-) | A Java static code inspector with one-click fix capability. | Java静态代码安全审计插件 |
+|||||
+
+<br>
+
+###  Code Support
+||||
+| :----: | :---- | :---- |
+|![logo](https://plugins.jetbrains.com/files/17320/306936/icon/pluginIcon.svg) <br> [HighlightBracketPair](https://plugins.jetbrains.com/plugin/17320-highlightbracketpair) | The plugin can color highlight the Bracket Pair in editor for IntelliJ. | 该插件可以在 IntelliJ 的编辑器中用颜色突出显示括号对。 |
 |||||
 |![logo](https://plugins.jetbrains.com/files/20710/268288/icon/pluginIcon.svg) <br> [Rainbow Brackets Lite](https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite/reviews) | Rainbow Brackets for idea | 彩虹括号 |
 |||||
