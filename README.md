@@ -8,7 +8,7 @@
 
  <a  href="https://github.com/Exisi/Exisi/tree/main/Brain-storming">
 
-  <img min-device-width="20px" src="https://github-stats.exi.software/api?username=Exisi&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true" width="54.6%"/>
+  <img min-device-width="20px" src="https://github-stats.exi.software/api?username=Exisi&show_icons=true&icon_color=0969da&text_color=575f6a&bg_color=ffffff&hide_title=true&include_all_commits=true" width="54.6%"/>
 
  </a>
 
