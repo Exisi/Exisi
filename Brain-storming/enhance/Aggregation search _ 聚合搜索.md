@@ -1,4 +1,4 @@
-EN
+<h1 align="center">EN</h1>
 ### What are the difficulties with aggregate search?
 - First of all, let's talk about a small problem. Basically, when using search engine, will you open all websites?
 - It is obvious that we can't find the solution we want, we have to go back to the search engine's web page, which leads to repeated operations and greatly consumes our patience.
@@ -34,7 +34,7 @@ EN
 
 <br>
 
-CN
+<h1 align="center">ZH</h1>
 
 ###  聚合搜索有哪些困难？
 - 首先来谈论一个小问题，基本情况下，在使用搜素引擎时你是否会打开界面中所有网站？
