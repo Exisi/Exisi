@@ -26,7 +26,7 @@
 
 <br>
 
-### 3. Final
+### 3. Finally
 - Combining with all operations, the most ideal aggregation search is completed.
 
 <br>
