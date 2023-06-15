@@ -1,4 +1,18 @@
 ### Libraries
+  <p align="center"><a href="https://github.com/leonardomso/33-js-concepts">
+                                                         <b>————<br>• 33-js-concepts •<br>————</b>
+  </a></p>
+  <p align="center">                                  <b>33每个开发人员都应该知道的JavaScript概念。</b></p>
+    <p align="center">                         <i>33 JavaScript concepts every developer should know.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+  <p align="center"><a href="https://github.com/camsong/You-Dont-Need-jQuery">
+                                                         <b>————————<br>• You-Dont-Need-jQuery •<br>————————</b>
+  </a></p>
+  <p align="center">                                  <b>如何使用纯JavaScript编写类似jQuery的查询、样式、DOM、AJAX、事件等功能的示例</b></p>
+    <p align="center">                         <i>Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
   <p align="center"><a href="https://github.com/ascoders/weekly">
                                                         <b>——<br>• weekly •<br>——</b>
   </a></p>
