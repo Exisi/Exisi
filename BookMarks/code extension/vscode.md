@@ -41,6 +41,8 @@
 ||||
 | :----: | :---- | :---- |
 |||||
+|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.3.1/1658159108155/Microsoft.VisualStudio.Services.Icons.Default) <br>[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)| Mark lines and jump to them. | 标记行并跳转到它们。|
+|||||
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
 |||||
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
