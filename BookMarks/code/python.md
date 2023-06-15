@@ -9,7 +9,16 @@
   </a></p>
   <p align="center">                 <i>A curated list of awesome Python frameworks, libraries, software and resources</i></p>
   <br><p align="center"><b>♪</b></p><br>
-   
+
+  <p align="center"><a href="https://github.com/leisurelicht/wtfpython-cn">
+                                                         <b>————<br>• wtfpython-cn •<br>————</b>
+  </a></p>
+  <p align="center">                                           <b>一些有趣且鲜为人知的 Python 特性.</b></p>
+  <p align="center"><a href="https://github.com/satwikkansal/wtfpython">
+                                                         <b>————<br>• wtfpython •<br>————</b>
+  </a></p>
+  <p align="center">                 <i>Exploring and understanding Python through surprising snippets.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
 
 ### GUI
   <p align="center"><a href="https://github.com/TomSchimansky/CustomTkinter">
