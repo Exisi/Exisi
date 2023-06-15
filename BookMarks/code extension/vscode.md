@@ -57,6 +57,8 @@
 |||||
 |![logo](https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/2022.11.405/1667552964213/Microsoft.VisualStudio.Services.Icons.Default) <br>[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)| Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more | 增强 VS Code 中的 Git — 通过 Git 责任注释和 CodeLens 使代码作者一目了然，无缝导航和探索 Git 存储库，通过丰富的可视化和强大的比较命令获得有价值的见解等等 |
 |||||
+|![logo](https://qezhu.gallerycdn.vsassets.io/extensions/qezhu/gitlink/1.2.4/1653703186577/Microsoft.VisualStudio.Services.Icons.Default) <br>[GitLink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink&ssr=false#qna)| Goto/Copy current file's online link , supports multiple remote sources in GitHub/GitLab/BitBucket/VSTS/DevOps | Goto/Copy 当前文件的在线链接，支持 GitHub/GitLab/BitBucket/VSTS/DevOps 中的多个远程源 |
+|||||
 |![logo](https://redjue.gallerycdn.vsassets.io/extensions/redjue/git-commit-plugin/1.1.0/1652755110193/Microsoft.VisualStudio.Services.Icons.Default) <br>[git-commit-plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin)| Automatically generate git commit | 自动生成git提交信息 |
 |||||
 
