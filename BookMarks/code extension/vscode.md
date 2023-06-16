@@ -34,6 +34,8 @@
 |||||
 |![logo](https://techer.gallery.vsassets.io/_apis/public/gallery/publisher/techer/extension/open-in-browser/2.0.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br> [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser&ssr=false#review-details) | This allows you to open the current file in your default browser or application. | 在浏览器中打开文件（HTML） |
 |||||
+|![logo](https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default) <br>[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)| Toggle cycle " -> ' -> ` | 切换循环 “ -> ' -> ' |
+|||||
 |![logo](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/live-server/0.5.2023061501/1686820652968/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)| Hosts a local server in your workspace for you to preview your webpages on. | 在您的工作区中托管一个本地服务器，供您预览网页。 |
 ||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
