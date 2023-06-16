@@ -13,6 +13,8 @@
 ### Code
 ||||
 | :----: | :---- | :---- |
+|![logo](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/partial-diff/1.4.3/1618480813283/Microsoft.VisualStudio.Services.Icons.Default) <br>[Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)| Compare (diff) text selections within a file, across files, or to the clipboard | 比较文件中、文件之间或剪贴板的文本选择 |
+|||||
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.11.6/1633859780262/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&ssr=false#review-details)|Run code snippet or code file for multiple languages | 运行多个语言的代码片段或代码文件 |
 |||||
 |![logo](https://vincaslt.gallerycdn.vsassets.io/extensions/vincaslt/highlight-matching-tag/0.10.1/1624720983176/Microsoft.VisualStudio.Services.Icons.Default) <br>[Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)| Highlights matching closing and opening tags | 突出显示匹配的结束和开始标签 |
