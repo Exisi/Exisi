@@ -114,6 +114,8 @@
 |||||
 |![logo](https://kruemelkatze.gallerycdn.vsassets.io/extensions/kruemelkatze/vscode-dashboard/2.6.0/1669153714791/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard) | Organize your workspaces in a speed-dial manner. | 以快速拨号方式组织工作区 |
 |||||
+|![logo](https://cantonios.gallerycdn.vsassets.io/extensions/cantonios/project-templates/1.2.0/1544411541636/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Templates](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) | Create and apply custom project s templates | 创建和应用自定义项目模板 |
+|||||
 |![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
 |||||
 
