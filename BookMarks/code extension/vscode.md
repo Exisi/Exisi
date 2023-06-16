@@ -13,6 +13,8 @@
 ### Code
 ||||
 | :----: | :---- | :---- |
+|![logo](https://chouzz.gallerycdn.vsassets.io/extensions/chouzz/vscode-better-align/1.4.2/1680618981122/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align&ssr=false#overview)| Better vertical alignment with/without selection in any language for any characters or words. | 更好的垂直对齐方式，在任何语言中选择/不使用任何字符或单词的选择 |
+|||||
 |![logo](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/partial-diff/1.4.3/1618480813283/Microsoft.VisualStudio.Services.Icons.Default) <br>[Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)| Compare (diff) text selections within a file, across files, or to the clipboard | 比较文件中、文件之间或剪贴板的文本选择 |
 |||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
@@ -20,6 +22,8 @@
 |![logo](https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default) <br>[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)| Code snippets  for JavaScript  in ES6 syntax | ES6 语法中 JavaScript 的代码片段提示 |
 |||||
 |![logo](https://solnurkarim.gallery.vsassets.io/_apis/public/gallery/publisher/solnurkarim/extension/html-to-css-autocompletion/1.1.2/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion&ssr=false#review-details)| Provides completion suggestions for classes and ids from markup documents to stylesheets | 为css样式表提供class和id建议。 |
+|||||
+|![logo](https://yatki.gallerycdn.vsassets.io/extensions/yatki/vscode-surround/1.5.0/1659995379042/Microsoft.VisualStudio.Services.Icons.Default) <br>[Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround)| A simple yet powerful extension to add wrapper templates around your code blocks. | 一个简单而强大的扩展，用于在代码块周围添加包装器模板 |
 |||||
 |![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier | 使用prettier的代码格式化代码 |
 |||||
@@ -114,6 +118,8 @@
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
 |![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
 
+<br>
+
 ### Markdown Support
 ||||
 | :----: | :---- | :---- |
@@ -127,7 +133,6 @@
 |||||
 
 <br>
-
 
 ### Explorer
 ||||
