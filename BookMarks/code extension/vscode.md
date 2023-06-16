@@ -15,29 +15,18 @@
 | :----: | :---- | :---- |
 |![logo](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/partial-diff/1.4.3/1618480813283/Microsoft.VisualStudio.Services.Icons.Default) <br>[Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)| Compare (diff) text selections within a file, across files, or to the clipboard | 比较文件中、文件之间或剪贴板的文本选择 |
 |||||
-|![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.11.6/1633859780262/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&ssr=false#review-details)|Run code snippet or code file for multiple languages | 运行多个语言的代码片段或代码文件 |
-|||||
-|![logo](https://vincaslt.gallerycdn.vsassets.io/extensions/vincaslt/highlight-matching-tag/0.10.1/1624720983176/Microsoft.VisualStudio.Services.Icons.Default) <br>[Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)| Highlights matching closing and opening tags | 突出显示匹配的结束和开始标签 |
-|||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
 |||||
 |![logo](https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default) <br>[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)| Code snippets  for JavaScript  in ES6 syntax | ES6 语法中 JavaScript 的代码片段提示 |
 |||||
 |![logo](https://solnurkarim.gallery.vsassets.io/_apis/public/gallery/publisher/solnurkarim/extension/html-to-css-autocompletion/1.1.2/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion&ssr=false#review-details)| Provides completion suggestions for classes and ids from markup documents to stylesheets | 为css样式表提供class和id建议。 |
 |||||
-|![logo](https://shardulm94.gallerycdn.vsassets.io/extensions/shardulm94/trailing-spaces/0.4.1/1657508114419/Microsoft.VisualStudio.Services.Icons.Default) <br> [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | Highlight trailing spaces and delete them in a flash! | 高亮分号后门多余的空格 |
-|||||
 |![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier | 使用prettier的代码格式化代码 |
-|![logo](https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.6.1/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#review-details)| Launch a development local Server with live reload feature for static & dynamic pages | 启动一个开发本地服务器，为静态和动态页面提供实时加载功能 |
 |||||
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default) <br>  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag&ssr=false#review-details) | Automatically rename paired HTML/XML tag | 自动补全成对的HTML/XML标记 |
 |||||
-|![logo](https://techer.gallery.vsassets.io/_apis/public/gallery/publisher/techer/extension/open-in-browser/2.0.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br> [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser&ssr=false#review-details) | This allows you to open the current file in your default browser or application. | 在浏览器中打开文件（HTML） |
-|||||
 |![logo](https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default) <br>[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)| Toggle cycle " -> ' -> ` | 切换循环 “ -> ' -> ' |
 |||||
-|![logo](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/live-server/0.5.2023061501/1686820652968/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)| Hosts a local server in your workspace for you to preview your webpages on. | 在您的工作区中托管一个本地服务器，供您预览网页。 |
-||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
 |![logo](https://dominicvonk.gallerycdn.vsassets.io/extensions/dominicvonk/parameter-hints/0.2.7/1606317586094/Microsoft.VisualStudio.Services.Icons.Default) <br>[Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)|Automatic parameter hints | 自动参数提示 |
@@ -45,16 +34,33 @@
 
 <br>
 
-### Support
+### Run
 ||||
 | :----: | :---- | :---- |
+|![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/code-runner/0.11.6/1633859780262/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner&ssr=false#review-details)|Run code snippet or code file for multiple languages | 运行多个语言的代码片段或代码文件 |
 |||||
-|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.3.1/1658159108155/Microsoft.VisualStudio.Services.Icons.Default) <br>[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)| Mark lines and jump to them. | 标记行并跳转到它们。|
+|![logo](https://ritwickdey.gallery.vsassets.io/_apis/public/gallery/publisher/ritwickdey/extension/LiveServer/5.6.1/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&ssr=false#review-details)| Launch a development local Server with live reload feature for static & dynamic pages | 启动一个开发本地服务器，为静态和动态页面提供实时加载功能 |
 |||||
-|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
+|![logo](https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/live-server/0.5.2023061501/1686820652968/Microsoft.VisualStudio.Services.Icons.Default) <br>[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)| Hosts a local server in your workspace for you to preview your webpages on. | 在您的工作区中托管一个本地服务器，供您预览网页。 |
+||||
+|![logo](https://techer.gallery.vsassets.io/_apis/public/gallery/publisher/techer/extension/open-in-browser/2.0.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br> [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser&ssr=false#review-details) | This allows you to open the current file in your default browser or application. | 在浏览器中打开文件（HTML） |
 |||||
-|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
-|![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
+
+<br>
+
+### Hightlight
+||||
+| :----: | :---- | :---- |
+|![logo](https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.11.1/1619866227538/Microsoft.VisualStudio.Services.Icons.Default) <br> [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | This extension your styles files looking for colors and generate a colored background (using the color) for each of them. | 这个扩展你的样式文件寻找颜色并为它们中的每一个生成彩色背景（使用颜色） |
+|||||
+|![logo](https://vincaslt.gallerycdn.vsassets.io/extensions/vincaslt/highlight-matching-tag/0.10.1/1624720983176/Microsoft.VisualStudio.Services.Icons.Default) <br>[Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)| Highlights matching closing and opening tags | 突出显示匹配的结束和开始标签 |
+|||||
+|![logo](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/text-marker/1.11.0/1555739025789/Microsoft.VisualStudio.Services.Icons.Default) <br> [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker&ssr=false#review-details) | Select text in your code and mark all matches. The highlight colour is configurable | 选择代码中的文本并标记所有匹配项。高亮颜色可配置 |
+|||||
+|![logo](https://shardulm94.gallerycdn.vsassets.io/extensions/shardulm94/trailing-spaces/0.4.1/1657508114419/Microsoft.VisualStudio.Services.Icons.Default) <br> [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | Highlight trailing spaces and delete them in a flash! | 高亮分号后门多余的空格 |
+|||||
+
+<br>
 
 ### Git
 ||||
@@ -72,14 +78,20 @@
 
 <br>
 
+### Mark
+||||
+| :----: | :---- | :---- |
+|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.3.1/1658159108155/Microsoft.VisualStudio.Services.Icons.Default) <br>[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)| Mark lines and jump to them. | 标记行并跳转到它们。|
+|||||
+|![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
+|||||
+
+<br>
+
 ### Show
 ||||
 | :----: | :---- | :---- |
-|![logo](https://kamikillerto.gallerycdn.vsassets.io/extensions/kamikillerto/vscode-colorize/0.11.1/1619866227538/Microsoft.VisualStudio.Services.Icons.Default) <br> [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | This extension your styles files looking for colors and generate a colored background (using the color) for each of them. | 这个扩展你的样式文件寻找颜色并为它们中的每一个生成彩色背景（使用颜色） |
-|||||
 |![logo](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default) <br> [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size. | 此扩展将在编辑器中内联显示导入包的大小。该扩展利用 webpack 来检测导入的大小。 |
-|||||
-|![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
 |||||
 |![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) | Icons for Visual Studio Code | 目录文件的图标显示 |
 |||||
@@ -93,6 +105,14 @@
 |||||
 
 <br>
+
+### Support
+||||
+| :----: | :---- | :---- |
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
+|||||
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
+|![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
 
 ### Markdown Support
 ||||
