@@ -11,7 +11,7 @@
   </a></p>
   <p align="center">                                           <b>中国独立开发者项目列表</b></p>
   </a></p>
-                                                         <p align="center"><i>Read:2023.09.04</i></p>
+                                                         <p align="center"><i>Read:2023.09.05</i></p>
   <p align="center"><b>♪</b></p><br>
   
   <p align="center"><a href="https://github.com/zhaoolee/ChromeAppHeroes">
