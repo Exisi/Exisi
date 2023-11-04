@@ -99,3 +99,21 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <p align="center">                                        <b>在 javascript 中解析、验证、操作和显示日期。</b></p>
     <p align="center">                            <i>Parse, validate, manipulate, and display dates in javascript.</i></p>
   <br><p align="center"><b>♪</b></p><br>
+
+### Compatibility
+  <p align="center"><a href="https://github.com/taylorhakes/promise-polyfill">
+                                                                   <b>——<br>• promise-polyfill •<br>——</b>
+  </a></p>
+  
+  <p align="center">                                        <b>轻量级的 ES6 Promise polyfill，用于浏览器和 node。兼容性 A+</b></p>
+    <p align="center">                            <i>Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+
+  <p align="center"><a href="https://github.com/ModuleLoader/browser-es-module-loader">
+                                                                   <b>——<br>• browser-es-module-loader •<br>——</b>
+  </a></p>
+  
+  <p align="center">                                        <b>通过 Babel 在浏览器中加载 ES 模块，就像模块的 WhatWG HTML 规范一样。</b></p>
+    <p align="center">                      <i>Loads ES modules in the browser via Babel just like the WhatWG HTML specification for modules.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
