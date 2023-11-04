@@ -102,7 +102,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 ### Compatibility
   <p align="center"><a href="https://github.com/taylorhakes/promise-polyfill">
-                                                                   <b>——<br>• promise-polyfill •<br>——</b>
+                                                                   <b>——————<br>• promise-polyfill •<br>——————</b>
   </a></p>
   
   <p align="center">                                        <b>轻量级的 ES6 Promise polyfill，用于浏览器和 node。兼容性 A+</b></p>
@@ -111,7 +111,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 
   <p align="center"><a href="https://github.com/ModuleLoader/browser-es-module-loader">
-                                                                   <b>——<br>• browser-es-module-loader •<br>——</b>
+                                                                   <b>——————————<br>• browser-es-module-loader •<br>——————————</b>
   </a></p>
   
   <p align="center">                                        <b>通过 Babel 在浏览器中加载 ES 模块，就像模块的 WhatWG HTML 规范一样。</b></p>
