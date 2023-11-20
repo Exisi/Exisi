@@ -24,6 +24,20 @@
   <p align="center">                         <b>新晋RecyclerViewAdapter框架，比BRVAH/MultiType更强大/优雅</b></p>
   <br><p align="center"><b>♪</b></p><br>
 
+### Layout
+  <p align="center"><a href="https://github.com/AppIntro/AppIntro">
+                                                         <b>——<br>• AppIntro •<br>——</b>
+  </a></p>
+  <p align="center">            <b>AppIntro 是一个 Android 库，可以帮助您为应用程序构建一个很酷的轮播介绍页</b></p>
+  <p align="center"><i>AppIntro is an Android Library that helps you build a cool carousel intro for your App. AppIntro has support for requesting permissions and helps you create a great onboarding experience in just a couple of minutes</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
+  <p align="center"><a href="https://github.com/scwang90/SmartRefreshLayout">
+                                                         <b>——<br>• SmartRefreshLayout •<br>——</b>
+  </a></p>
+  <p align="center">   <b>SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架为目标，并集成各种的炫酷、多样、实用、美观的Header和Footer</b></p>
+  <br><p align="center"><b>♪</b></p><br>
+
 ### Toast
   <p align="center"><a href="https://github.com/Shashank02051997/FancyToast-Android">
                                                          <b>——<br>• FancyToast-Android •<br>——</b>
@@ -41,6 +55,12 @@
   <p align="center">                                <i>A button to substitute the ProgressDialog</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
+### Video
+  <p align="center"><a href="https://github.com/CarGuo/GSYVideoPlayer">
+                                                       <b>—————<br>• GSYVideoPlayer •<br>—————</b>
+  </a></p>
+  <p align="center">            <b>支持 IJKPlayer、 Media3(EXOPlayer2)、MediaPlayer、AliPlayer，实现了多功能的视频播放器</b></p>
+  <br><p align="center"><b>♪</b></p><br>
 
 ### Dialog
   <p align="center"><a href="https://github.com/razerdp/BasePopup">
