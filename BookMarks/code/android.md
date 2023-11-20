@@ -34,21 +34,6 @@
   
 
 ### Button
-  <p align="center"><a href="https://github.com/kyleduo/SwitchButton">
-                                                          <b>————<br>• SwitchButton •<br>————</b>
-  </a></p>
-  <p align="center">                                            <b>精美的切换按钮</b></p>
-  <p align="center">                  <i>A cute widget of Switch Button for you to create beautiful and friendly UI</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-
-
-  <p align="center"><a href="https://github.com/Angads25/android-toggle">
-                                                          <b>————<br>• android-toggle •<br>————</b>
-  </a></p>
-  <p align="center">                                              <b>更为精致的切换按钮</b></p>
-  <p align="center">                                     <i>Android Library for Custom Switches</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-
   <p align="center"><a href="https://github.com/leandroBorgesFerreira/LoadingButtonAndroid">
                                                        <b>—————<br>• LoadingButtonAndroid •<br>—————</b>
   </a></p>
@@ -64,7 +49,21 @@
   <p align="center">                      <b>一款针对系统PopupWindow优化的Popup库，功能强大，支持背景模糊，使用简单</b></p>
   <p align="center"><i>a popup library that wraps and improves on the system's PopupWindow. It is a basic library class with a high degree of freedom and a rich API that allows you to do a wide range of popups very easily within the framework of BasePopup</i></p>
   <br><p align="center"><b>♪</b></p><br>
-  
+
+### Loading
+  <p align="center"><a href="https://github.com/bumptech/glide">
+                                                               <b>——<br>• Glide •<br>——</b>
+  </a></p>
+  <p align="center">      <b>Glide 是一个快速高效的 Android 开源媒体管理和图像加载框架，它将媒体解码、内存和磁盘缓存以及资源池封装到一个简单易用的界面中</b></p>
+  <p align="center"><i>Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+  <p align="center"><a href="https://github.com/square/retrofit">
+                                                               <b>——<br>• Retrofit •<br>——</b>
+  </a></p>
+  <p align="center">                                <b>适用于 Android 和 Java 的类型安全 HTTP 客户端</b></p>
+  <p align="center">                                <i>A type-safe HTTP client for Android and Java.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
 
 ### Dev
   <p align="center"><a href="https://github.com/BolexLiu/AutoEx">
