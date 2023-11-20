@@ -1,7 +1,14 @@
 ### Libraries
   <p align="center">
+  <a href="https://github.com/Blankj/AndroidStandardDevelop">
+                                                    <b>—————————<br>• AndroidStandardDevelop •<br>—————————</b>
+  </a></p>
+  <p align="center">                                         <b>Android开发规范</b></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
+  <p align="center">
   <a href="https://snowdream86.gitbooks.io/awesome-android/content">
-                                                    <b>————<br>• Awesome-android •<br>————</b>
+                                                    <b>—————<br>• Awesome-android •<br>—————</b>
   </a></p>
   <p align="center">                                      <b>Android开源库合集</b></p>
   <p align="center">                     <i>A curated list of awesome Android packages and resources</i></p>
@@ -33,14 +40,14 @@
   <br><p align="center"><b>♪</b></p><br>
   
   <p align="center"><a href="https://github.com/scwang90/SmartRefreshLayout">
-                                                         <b>——<br>• SmartRefreshLayout •<br>——</b>
+                                                         <b>————————<br>• SmartRefreshLayout •<br>————————</b>
   </a></p>
   <p align="center">   <b>SmartRefreshLayout以打造一个强大，稳定，成熟的下拉刷新框架为目标，并集成各种的炫酷、多样、实用、美观的Header和Footer</b></p>
   <br><p align="center"><b>♪</b></p><br>
 
 ### Toast
   <p align="center"><a href="https://github.com/Shashank02051997/FancyToast-Android">
-                                                         <b>——<br>• FancyToast-Android •<br>——</b>
+                                                         <b>———————<br>• FancyToast-Android •<br>———————</b>
   </a></p>
   <p align="center">                                     <b>规范化的Toast,标记警告错误提示等</b></p>
   <p align="center">                                 <i>Make your native android Toasts Fancy</i></p>
@@ -49,7 +56,7 @@
 
 ### Button
   <p align="center"><a href="https://github.com/leandroBorgesFerreira/LoadingButtonAndroid">
-                                                       <b>—————<br>• LoadingButtonAndroid •<br>—————</b>
+                                                       <b>———————<br>• LoadingButtonAndroid •<br>———————</b>
   </a></p>
   <p align="center">                                         <b>带有加载进度动画的按钮</b></p>
   <p align="center">                                <i>A button to substitute the ProgressDialog</i></p>
@@ -57,7 +64,7 @@
 
 ### Video
   <p align="center"><a href="https://github.com/CarGuo/GSYVideoPlayer">
-                                                       <b>—————<br>• GSYVideoPlayer •<br>—————</b>
+                                                       <b>——————<br>• GSYVideoPlayer •<br>——————</b>
   </a></p>
   <p align="center">            <b>支持 IJKPlayer、 Media3(EXOPlayer2)、MediaPlayer、AliPlayer，实现了多功能的视频播放器</b></p>
   <br><p align="center"><b>♪</b></p><br>
@@ -70,7 +77,14 @@
   <p align="center"><i>a popup library that wraps and improves on the system's PopupWindow. It is a basic library class with a high degree of freedom and a rich API that allows you to do a wide range of popups very easily within the framework of BasePopup</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
-### Loading
+### Request
+  <p align="center"><a href="https://github.com/square/okhttp">
+                                                               <b>——<br>• okhttp •<br>——</b>
+  </a></p>
+  <p align="center">                           <b>Square 适用于 JVM、Android 和 GraalVM 的细致 HTTP 客户端。</b></p>
+  <p align="center">                       <i>Square’s meticulous HTTP client for the JVM, Android, and GraalVM.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
   <p align="center"><a href="https://github.com/bumptech/glide">
                                                                <b>——<br>• Glide •<br>——</b>
   </a></p>
