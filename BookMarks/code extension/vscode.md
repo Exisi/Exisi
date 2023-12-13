@@ -31,6 +31,8 @@
 |||||
 |![logo](https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default) <br>[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)| Toggle cycle " -> ' -> ` | 切换循环 “ -> ' -> ' |
 |||||
+|![logo](https://yidash.gallerycdn.vsassets.io/extensions/yidash/outline-plus/1.1.3/1702182361266/Microsoft.VisualStudio.Services.Icons.Default) <br>[OutlinePlus](https://marketplace.visualstudio.com/items?itemName=yidash.outline-plus)| Slash your code navigation time by 50%: Effortlessly search, browse, and organize variables and functions in your IDE. | 将代码导航时间缩短50%：轻松搜索、浏览和组织IDE中的变量和函数 |
+|||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
 |![logo](https://dominicvonk.gallerycdn.vsassets.io/extensions/dominicvonk/parameter-hints/0.2.7/1606317586094/Microsoft.VisualStudio.Services.Icons.Default) <br>[Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)|Automatic parameter hints | 自动参数提示 |
