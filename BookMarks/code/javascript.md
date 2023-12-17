@@ -42,6 +42,15 @@
   <br><p align="center"><b>♪</b></p><br>
 
 
+### Table
+  <p align="center"><a href="https://github.com/LeeWannacott/table-sort-js">
+                                                    <b>————<br>• table-sort-js •<br>————</b>
+  </a></p>
+  <p align="center">                                       <b>没有依赖项的HTML表排序。</b></p>
+    <p align="center">                          <i>HTML table sorting with no dependencies.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+  
+
 ### Highligh
   <p align="center"><a href="https://github.com/highlightjs/highlight.js">
                                                     <b>————<br>• highlight.js •<br>————</b>
