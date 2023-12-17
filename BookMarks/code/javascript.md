@@ -37,7 +37,7 @@
   <p align="center"><a href="https://github.com/apvarun/toastify-js">
                                                     <b>————<br>• toastify-js •<br>————</b>
   </a></p>
-  <p align="center">                   <b>toast ify是一个轻量级的普通JS toast通知库。</b></p>
+  <p align="center">                   <b>Toastify是一个轻量级的普通JS toast通知库。</b></p>
     <p align="center">             <i>Toastify is a lightweight, vanilla JS toast notification library.</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
