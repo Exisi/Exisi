@@ -109,6 +109,25 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
     <p align="center">                            <i>Parse, validate, manipulate, and display dates in javascript.</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
+### Animation
+  <p align="center"><a href="https://github.com/formkit/auto-animate">
+                                                                   <b>———<br>auto-animate<br>———</b>
+  </a></p>
+  
+  <p align="center"><b>一个零配置的插入式动画实用程序，可为您的 Web 应用程序添加平滑过渡。您可以将它与 React、Vue 或任何其他 JavaScript 应用程序一起使用。</b></p>
+    <p align="center"><i>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application..</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+### Creative
+  <p align="center"><a href="https://github.com/inorganik/countUp.js">
+                                                                   <b>———<br>• countUp.js •<br>———</b>
+  </a></p>
+  
+  <p align="center">                     <b>CountUp.js 是一个无依赖的轻量级 Javascript 类，可用于快速创建以更有趣的方式显示数值数据的动画。</b></p>
+    <p align="center"><i>CountUp.js is a dependency-free, lightweight Javascript class that can be used to quickly create animations that display numerical data in a more interesting way.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+
 ### Compatibility
   <p align="center"><a href="https://github.com/taylorhakes/promise-polyfill">
                                                                    <b>——————<br>• promise-polyfill •<br>——————</b>
@@ -125,14 +144,4 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   
   <p align="center">                                        <b>通过 Babel 在浏览器中加载 ES 模块，就像模块的 WhatWG HTML 规范一样。</b></p>
     <p align="center">                      <i>Loads ES modules in the browser via Babel just like the WhatWG HTML specification for modules.</i></p>
-  <br><p align="center"><b>♪</b></p><br>
-
-
-### Creative
-  <p align="center"><a href="https://github.com/inorganik/countUp.js">
-                                                                   <b>———<br>• countUp.js •<br>———</b>
-  </a></p>
-  
-  <p align="center">                     <b>CountUp.js 是一个无依赖的轻量级 Javascript 类，可用于快速创建以更有趣的方式显示数值数据的动画。</b></p>
-    <p align="center"><i>CountUp.js is a dependency-free, lightweight Javascript class that can be used to quickly create animations that display numerical data in a more interesting way.</i></p>
   <br><p align="center"><b>♪</b></p><br>
