@@ -3,8 +3,6 @@
 | :----: | :---- | :---- |
 |![logo](https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default) <br>[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)| Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning. | 为Visual Studio代码中的Python、TypeScript/JavaScript和Java开发人员提供了AI辅助开发功能，并基于对代码上下文的理解和机器学习进行深入了解 |
 |||||
-|![logo](https://genieai.gallerycdn.vsassets.io/extensions/genieai/chatgpt-vscode/0.0.6/1680274090699/Microsoft.VisualStudio.Services.Icons.Default) <br>[ChatGPT - Genie AI](https://marketplace.visualstudio.com/items?itemName=genieai.chatgpt-vscode)| Your best AI pair programmer. Save conversations and continue any time. A Visual Studio Code - ChatGPT Integration. Supports GPT-4, GPT3.5, GPT3 and Codex models. Create new files, view diffs with one click; your copilot to learn code, add tests, find bugs and more. | 你最好的人工智能配对程序员。保存对话并随时继续。Visual Studio代码-ChatGPT集成。支持GPT-4、GPT3.5、GPT3和Codex型号。创建新文件，一键查看差异；您的副驾驶员可以学习代码、添加测试、查找错误等等。 |
-|||||
 |![logo](https://tabnine.gallerycdn.vsassets.io/extensions/tabnine/tabnine-vscode/3.6.38/1675163872433/Microsoft.VisualStudio.Services.Icons.Default) <br>[Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)| Tabnine is an AI code assistant that makes you a better developer. Tabnine will increase your development velocity with real-time code completions in all the most popular coding languages and IDEs. | Tabnine 是一个 AI 代码助手，可以让你成为更好的开发者。 Tabnine 将通过所有最流行的编码语言和 IDE 中的实时代码完成来提高您的开发速度。 |
 |||||
 
@@ -30,8 +28,6 @@
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default) <br>  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag&ssr=false#review-details) | Automatically rename paired HTML/XML tag | 自动补全成对的HTML/XML标记 |
 |||||
 |![logo](https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default) <br>[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)| Toggle cycle " -> ' -> ` | 切换循环 “ -> ' -> ' |
-|||||
-|![logo](https://yidash.gallerycdn.vsassets.io/extensions/yidash/outline-plus/1.1.3/1702182361266/Microsoft.VisualStudio.Services.Icons.Default) <br>[OutlinePlus](https://marketplace.visualstudio.com/items?itemName=yidash.outline-plus)| Slash your code navigation time by 50%: Effortlessly search, browse, and organize variables and functions in your IDE. | 将代码导航时间缩短50%：轻松搜索、浏览和组织IDE中的变量和函数 |
 |||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
