@@ -75,6 +75,8 @@
 |||||
 |![logo](https://redjue.gallerycdn.vsassets.io/extensions/redjue/git-commit-plugin/1.1.0/1652755110193/Microsoft.VisualStudio.Services.Icons.Default) <br>[git-commit-plugin](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin)| Automatically generate git commit | 自动生成git提交信息 |
 |||||
+|![logo](https://stephtr.gallerycdn.vsassets.io/extensions/stephtr/git-identity/1.0.1/1561055218254/Microsoft.VisualStudio.Services.Icons.Default) <br>[Git-Identity switcher](https://marketplace.visualstudio.com/items?itemName=redjue.git-commit-plugin)| Adds a button to easily switch between different Git authors | 添加一个按钮，可以在不同的Git作者之间轻松切换 |
+|||||
 
 <br>
 
