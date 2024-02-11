@@ -53,8 +53,17 @@
 | :----: | :---- | :---- |
 |![](https://plugins.jetbrains.com/files/10650/173818/icon/pluginIcon.svg) <br> [Json Parser](https://plugins.jetbrains.com/plugin/10650-json-parser) | formatting and validating JSON | Json格式化 |
 |||||
+|![](https://plugins.jetbrains.com/files/10119/429731/icon/pluginIcon.svg) <br> [MyBatisX](https://plugins.jetbrains.com/plugin/10119-mybatisx) | mapper and xml can jump back and forth, mybatis.xml,mapper.xml prompt | mapper和xml可以来回跳动，mybatis.xml，mapper.xml提示 |
+|||||
+
 
 <br>
+
+### Enhance
+||||
+| :----: | :---- | :---- |
+|![]() <br> [TabSwitch](https://plugins.jetbrains.com/plugin/179-tabswitch) | Open files/tabs switcher to quickly switch between tabs with less keystrokes than Recent Files. Open files are selected from a list in most recently used order, similarly to Alt+Tab in Windows or Ctrl-Tab in Opera. By default the action is mapped to Alt+A, but another popular assignment is CMD+E. | 打开文件/选项卡切换器可以在选项卡之间快速切换，按键次数比最近使用的文件少。打开的文件是按照最近使用的顺序从列表中选择的，类似于Windows中的Alt+Tab或Opera中的Ctrl+Tab。默认情况下，操作被映射到Alt+A，但另一个流行的分配是CMD+E。 |
+|||||
 
 ###  Show
 ||||
