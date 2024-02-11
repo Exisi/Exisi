@@ -45,6 +45,8 @@
 |||||
 |![logo](https://plugins.jetbrains.com/files/12383/296196/icon/pluginIcon.svg) <br> [Gitmoji Plus: Commit Button](https://plugins.jetbrains.com/plugin/12383-gitmoji-plus-commit-button) | Add a gitmoji emoticon in your commits to make them sexier! This plug-in will help you to choose and add the gitmoji, via a button in the Commit window, among a predefined list of emoticons coming from reference commit rules. | 在你的提交中添加一个 gitmoji 表情符号，让它们更性感！该插件将帮助您通过“提交”窗口中的按钮在来自参考提交规则的预定义表情符号列表中选择和添加 gitmoji |
 |||||
+|![logo](https://plugins.jetbrains.com/files/7499/478224/icon/pluginIcon.svg) <br> [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox) | Extends Git Integration with additional features: project view decoration, inline blame and much more. | 扩展Git集成以及其他功能：项目视图装饰，内联责任等等 |
+|||||
 
 <br>
 
