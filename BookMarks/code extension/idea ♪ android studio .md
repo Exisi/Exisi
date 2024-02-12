@@ -23,6 +23,8 @@
 |||||
 |![logo](https://plugins.jetbrains.com/files/20710/268288/icon/pluginIcon.svg) <br> [Rainbow Brackets Lite](https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite/reviews) | Rainbow Brackets for idea | 彩虹括号 |
 |||||
+|![logo](https://plugins.jetbrains.com/files/9360/428228/icon/pluginIcon.svg) <br> [GenerateAllSetter](https://plugins.jetbrains.com/plugin/9360-generateallsetter) | Call all the set methods, get methods, etc. of an object with one key, and generate a conversion of two objects on the method | 一键调用一个对象的所有的set方法,get方法等，在方法上生成两个对象的转换 |
+|||||
 
 <br>
 
