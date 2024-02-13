@@ -70,7 +70,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 ### Guide
   <p align="center"><a href="https://github.com/shipshapecode/shepherd">
-                                                      <b>———<br>shepherd<br>———</b>
+                                                            <b>———<br>shepherd<br>———</b>
   </a></p>
   <p align="center">                                        <b>指导您的用户访问您的应用程序</b></p>
     <p align="center">                            <i>Guide your users through a tour of your app</i></p>
@@ -87,14 +87,14 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
     
 ### Parser
   <p align="center"><a href="https://github.com/markedjs/marked">
-                                                    <b>———<br>• marked •<br>———</b>
+                                                               <b>———<br>• marked •<br>———</b>
   </a></p>
   <p align="center">                                        <b>markdown解析器和编译器。专为速度打造</b></p>
     <p align="center">                              <i>A markdown parser and compiler. Built for speed.</i></p>
   <br><p align="center"><b>♪</b></p><br>
   
   <p align="center"><a href="https://github.com/davidshimjs/qrcodejs">
-                                                    <b>———<br>• qrcodejs •<br>———</b>
+                                                               <b>———<br>• qrcodejs •<br>———</b>
   </a></p>
   <p align="center">                                        <b>javascript 的跨浏览器 QRCode 生成器</b></p>
     <p align="center">                              <i>Cross-browser QRCode generator for javascript</i></p>
@@ -102,16 +102,16 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 ### Format
   <p align="center"><a href="https://github.com/moment/moment">
-                                                                   <b>——<br>• moment •<br>——</b>
+                                                                   <b>——<br>• luxon •<br>——</b>
   </a></p>
   
-  <p align="center">                                        <b>在 javascript 中解析、验证、操作和显示日期。</b></p>
-    <p align="center">                            <i>Parse, validate, manipulate, and display dates in javascript.</i></p>
+  <p align="center">                                        <b>一个强大、现代、友好的JavaScript日期和时间封装器。。</b></p>
+    <p align="center">                            <i>A powerful, modern, and friendly wrapper for JavaScript dates and times..</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
 ### Animation
   <p align="center"><a href="https://github.com/formkit/auto-animate">
-                                                                   <b>———<br>auto-animate<br>———</b>
+                                                                   <b>———<br>• auto-animate •<br>———</b>
   </a></p>
   
   <p align="center"><b>一个零配置的插入式动画实用程序，可为您的 Web 应用程序添加平滑过渡。您可以将它与 React、Vue 或任何其他 JavaScript 应用程序一起使用。</b></p>
