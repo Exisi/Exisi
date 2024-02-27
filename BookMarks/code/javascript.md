@@ -51,6 +51,15 @@
   <br><p align="center"><b>♪</b></p><br>
   
 
+### SideBar
+  <p align="center"><a href="https://github.com/tscanlin/tocbot">
+                                                    <b>————<br>• tocbot •<br>————</b>
+  </a></p>
+  <p align="center">                                       <b>Tocbot根据 HTML 文档中的标题构建目录(TOC)。这对于文档网站或Markdown页面非常有用，因为它使它们更易于导航</b></p>
+    <p align="center">                          <i>Tocbot builds a table of contents (TOC) from headings in an HTML document. This is useful for documentation websites or long markdown pages because it makes them easier to navigate.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
+
+
 ### Highligh
   <p align="center"><a href="https://github.com/highlightjs/highlight.js">
                                                     <b>————<br>• highlight.js •<br>————</b>
