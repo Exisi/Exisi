@@ -52,12 +52,3 @@
   <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
   <p align="center">                         <i>Converts .py to .exe using a simple graphical interface</i></p>
   <br><p align="center"><b>♪</b></p><br>
-
-
-### Driver
-  <p align="center"><a href="https://github.com/SergeyPirogov/webdriver_manager">
-                                                         <b>————<br> webdriver_manager <br>————</b>
-  </a></p>
-  <p align="center">                               <b>使用简化不同浏览器的二进制驱动程序的管理器</b></p>
-  <p align="center">    <i>simplify management of binary drivers for different browsers.</i></p>
-  <br><p align="center"><b>♪</b></p><br>
