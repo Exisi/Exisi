@@ -75,6 +75,21 @@
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
+### Editor
+  <p align="center"><a href="https://github.com/wangeditor-team/wangEditor">
+                                                    <b>————<br>• wangEditor •<br>————</b>
+  </a></p>
+  <p align="center">                    <b>开源 Web 富文本编辑器，开箱即用，配置简单。支持 JS Vue React</b></p>
+  <p align="center"><i>Open source web rich text editor, ready to use out of the box, with simple configuration. Support JS Vue React.</i></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </p>
+  <br><p align="center"><b>♪</b></p><br>
 
 ### Highligh
   <p align="center"><a href="https://github.com/highlightjs/highlight.js">
