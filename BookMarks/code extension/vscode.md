@@ -33,6 +33,8 @@
 |||||
 |![logo](https://dominicvonk.gallerycdn.vsassets.io/extensions/dominicvonk/parameter-hints/0.2.7/1606317586094/Microsoft.VisualStudio.Services.Icons.Default) <br>[Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)|Automatic parameter hints | 自动参数提示 |
 |||||
+|![logo](https://apinix.gallerycdn.vsassets.io/extensions/apinix/indent-jump/1.0.1/1643723855570/Microsoft.VisualStudio.Services.Icons.Default) <br>[Indent Jump](https://marketplace.visualstudio.com/items?itemName=aPinix.indent-jump)| Move cursor and select contents between lines with the same indents. | 移动光标并在具有相同缩进的行之间选择内容。 |
+|||||
 
 <br>
 
@@ -108,7 +110,7 @@
 
 <br>
 
-### Support
+### Language Support
 ||||
 | :----: | :---- | :---- |
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
