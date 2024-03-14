@@ -29,6 +29,8 @@
 |||||
 |![logo](https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default) <br>[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)| Toggle cycle " -> ' -> ` | 切换循环 “ -> ' -> ' |
 |||||
+|![logo](https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/1.0.290/1709159763411/Microsoft.VisualStudio.Services.Icons.Default) <br>[Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)| JavaScript console.log output and runtime errors right next to your code. | JavaScript Console.log输出结果和运行时的错误就在您的代码旁边。 |
+|||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details)| Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
 |![logo](https://dominicvonk.gallerycdn.vsassets.io/extensions/dominicvonk/parameter-hints/0.2.7/1606317586094/Microsoft.VisualStudio.Services.Icons.Default) <br>[Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)|Automatic parameter hints | 自动参数提示 |
