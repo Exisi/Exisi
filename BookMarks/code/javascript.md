@@ -164,12 +164,24 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <br><p align="center"><b>♪</b></p><br>
 
 ### Format
+  <p align="center"><a href="https://github.com/iamkun/dayjs">
+                                                                   <b>——<br>• dayjs •<br>——</b>
+  </a></p>
+  
+  <p align="center"><b>Day.js是一个简约的JavaScript库，可以解析，验证，操纵，显示和显示具有很大兼具的API的现代浏览器的日期和时间。如果您使用过Moment.js，您已经知道如何使用Day.js。</b></p>
+    <p align="center">                            <i>Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API. If you use Moment.js, you already know how to use Day.js.</i></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+  </p>
+  <br><p align="center"><b>♪</b></p><br>
+  
   <p align="center"><a href="https://github.com/moment/luxon">
                                                                    <b>——<br>• luxon •<br>——</b>
   </a></p>
   
-  <p align="center">                                        <b>一个强大、现代、友好的JavaScript日期和时间封装器。。</b></p>
-    <p align="center">                            <i>A powerful, modern, and friendly wrapper for JavaScript dates and times..</i></p>
+  <p align="center">                                        <b>一个强大、现代、友好的JavaScript日期和时间封装器。</b></p>
+    <p align="center">                            <i>A powerful, modern, and friendly wrapper for JavaScript dates and times.</i></p>
   <p align="center">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
     <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
@@ -213,6 +225,17 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
+### plugins
+  <p align="center"><a href="https://github.com/zh-lx/code-inspector">
+                                                                   <b>—————<br>• code-inspector •<br>—————</b>
+  </a></p>
+  
+  <p align="center">                                        <b>单击页面上的DOM，它将打开您的IDE并将光标放置在DOM的源代码位置。</b></p>
+    <p align="center">              <i>Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom.</i></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  </p>
+  <br><p align="center"><b>♪</b></p><br>
 
 ### Compatibility
   <p align="center"><a href="https://github.com/taylorhakes/promise-polyfill">
