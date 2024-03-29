@@ -63,6 +63,13 @@
 
 <br>
 
+
+### Integration
+||||
+| :----: | :---- | :---- |
+|![](https://plugins.jetbrains.com/files/23555/513421/icon/pluginIcon.svg) <br> [Cool Request](https://plugins.jetbrains.com/plugin/23555-cool-request) | It is used to solve the call of the Controller method and the regular timer method. It is very convenient. | 用于请求控制层方法和常规计时器方法的调用。 |
+|||||
+
 ### Enhance
 ||||
 | :----: | :---- | :---- |
