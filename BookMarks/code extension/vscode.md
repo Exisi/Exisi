@@ -115,7 +115,7 @@
 ### Request
 ||||
 | :----: | :---- | :---- |
-|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.20.3/1711727986281/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)| Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，清洁设计和本地存储。|
+|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.20.3/1711727986281/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)| Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，简洁的设计和本地存储。|
 |||||
 
 <br>
