@@ -112,7 +112,15 @@
 
 <br>
 
-### Language Support
+### Request
+||||
+| :----: | :---- | :---- |
+|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.20.3/1711727986281/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)| Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，清洁设计和本地存储。|
+|||||
+
+<br>
+
+### File Support
 ||||
 | :----: | :---- | :---- |
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.11.10112022/1665486048580/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
@@ -122,7 +130,7 @@
 
 <br>
 
-### Markdown Support
+### Markdown
 ||||
 | :----: | :---- | :---- |
 |![logo](https://mushan.gallerycdn.vsassets.io/extensions/mushan/vscode-paste-image/1.0.4/1548255946926/Microsoft.VisualStudio.Services.Icons.Default) <br> [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) | Paste image directly from clipboard to markdown/asciidoc(or other file) | 将图像直接从剪贴板粘贴到markdown/asciidoc（或其他文件）[Ctrl+Alt+V] |
@@ -158,6 +166,14 @@
 |![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) | The background image extension for VSCode | 自定义背景图片 |
 |||||
 |![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
+|||||
+
+<br>
+
+### Relaxing
+||||
+| :----: | :---- | :---- |
+|![logo](https://luyuhuang.gallerycdn.vsassets.io/extensions/luyuhuang/rss/0.10.4/1648296431517/Microsoft.VisualStudio.Services.Icons.Default) <br>[RSS](https://marketplace.visualstudio.com/items?itemName=luyuhuang.rss)| An RSS reader embedded in Visual Studio Code. | 嵌入在 Visual Studio Code 中的 RSS 阅读器 |
 |||||
 
 <br>
