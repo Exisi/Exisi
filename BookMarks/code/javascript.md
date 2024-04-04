@@ -142,7 +142,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 ### Icon
   <p align="center"><a href="https://github.com/FortAwesome/Font-Awesome">
-                                                    <b>———<br>• Font-Awesome •<br>———</b>
+                                                    <b>————<br>• Font-Awesome •<br>————</b>
   </a></p>
   <p align="center">                                        <b>Font Awesome是互联网的图标库和工具包，被数百万设计师、开发人员和内容创建者使用</b></p>
     <p align="center">                            <i>Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.</i></p>
@@ -153,7 +153,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <br><p align="center"><b>♪</b></p><br>
 
   <p align="center"><a href="https://github.com/feathericons/feather">
-                                                    <b>———<br>Feather<br>———</b>
+                                                    <b>——<br>Feather<br>——</b>
   </a></p>
   <p align="center">                                        <b>Feather是一个简单漂亮的开源图标的集合。</b></p>
     <p align="center">                            <i>Feather is a collection of simply beautiful open-source icons.</i></p>
