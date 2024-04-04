@@ -152,7 +152,17 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
-
+  <p align="center"><a href="https://github.com/feathericons/feather">
+                                                    <b>—————<br>Feather<br>—————</b>
+  </a></p>
+  <p align="center">                                        <b>Feather是一个简单漂亮的开源图标的集合。</b></p>
+    <p align="center">                            <i>Feather is a collection of simply beautiful open-source icons.</i></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+  </p>
+  <br><p align="center"><b>♪</b></p><br>
+    
 
 ### Parser
   <p align="center"><a href="https://github.com/markedjs/marked">
