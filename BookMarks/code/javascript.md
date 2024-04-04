@@ -153,7 +153,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <br><p align="center"><b>♪</b></p><br>
 
   <p align="center"><a href="https://github.com/feathericons/feather">
-                                                    <b>—————<br>Feather<br>—————</b>
+                                                    <b>———<br>Feather<br>———</b>
   </a></p>
   <p align="center">                                        <b>Feather是一个简单漂亮的开源图标的集合。</b></p>
     <p align="center">                            <i>Feather is a collection of simply beautiful open-source icons.</i></p>
