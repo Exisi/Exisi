@@ -103,31 +103,6 @@
   </p>
   <br><p align="center"><b>♪</b></p><br>
  
-  <p align="center"><a href="https://github.com/rough-stuff/rough-notation">
-                                                    <b>——————<br>rough-notation<br>——————</b>
-  </a></p>
-  <p align="center">    <b>一个小型 JavaScript 库，用于在网页上创建和动画注释。Rough Notation 使用 RoughJS 来创建手绘外观。</b></p>
-  <p align="center"> <i>A small JavaScript library to create and animate annotations on a web page.
-Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can be annotated in a number of different styles.</i></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
-  </p>
-  <br><p align="center"><b>♪</b></p><br>
-
-
-### Guide
-  <p align="center"><a href="https://github.com/shipshapecode/shepherd">
-                                                            <b>———<br>shepherd<br>———</b>
-  </a></p>
-  <p align="center">                                        <b>指导您的用户访问您的应用程序</b></p>
-    <p align="center">                            <i>Guide your users through a tour of your app</i></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
-  </p>
-  <br><p align="center"><b>♪</b></p><br>
-
 
 ### Background
   <p align="center"><a href="https://github.com/hustcc/canvas-nest.js">
