@@ -5,6 +5,8 @@
 |||||
 |![logo](https://tabnine.gallerycdn.vsassets.io/extensions/tabnine/tabnine-vscode/3.6.38/1675163872433/Microsoft.VisualStudio.Services.Icons.Default) <br>[Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)| Tabnine is an AI code assistant that makes you a better developer. Tabnine will increase your development velocity with real-time code completions in all the most popular coding languages and IDEs. | Tabnine 是一个 AI 代码助手，可以让你成为更好的开发者。 Tabnine 将通过所有最流行的编码语言和 IDE 中的实时代码完成来提高您的开发速度。 |
 |||||
+|![logo](https://mintlify.gallerycdn.vsassets.io/extensions/mintlify/document/2.2.1/1661411022616/Microsoft.VisualStudio.Services.Icons.Default) <br>[Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more](https://marketplace.visualstudio.com/items?itemName=mintlify.document)| AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages. | AI文档编写器，适用于JavaScript、Python、Java、Typescript和所有其他语言 |
+|||||
 
 <br>
 
