@@ -45,9 +45,9 @@
 |||||
 |![logo](https://chouzz.gallerycdn.vsassets.io/extensions/chouzz/vscode-better-align/1.4.2/1680618981122/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align&ssr=false#overview)| Better vertical alignment with/without selection in any language for any characters or words. | 更好的垂直对齐方式，在任何语言中选择/不使用任何字符或单词的选择 |
 |||||
-|![logo](https://ferrierbenjamin.gallerycdn.vsassets.io/extensions/ferrierbenjamin/fold-unfold-all-icone/0.0.3/1604143911157/Microsoft.VisualStudio.Services.Icons.Default) <br>[Fold/unfold all icone](https://marketplace.visualstudio.com/items?itemName=FerrierBenjamin.fold-unfold-all-icone)| Add a fold all and unfold all status bar's icone. | 添加全部折叠和全部展开状态栏的图标 |
-|||||
 |![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier | 使用prettier的代码格式化代码 |
+|||||
+|![logo](https://denjay.gallerycdn.vsassets.io/extensions/denjay/fold-level/0.0.2/1685693901647/Microsoft.VisualStudio.Services.Icons.Default) <br>[fold-level](https://marketplace.visualstudio.com/items?itemName=denjay.fold-level)| Add fold level button on the status bar. Change fold level quickly. | 在状态栏上添加折叠级别按钮。快速更改折叠级别。 |
 |||||
 
 <br>
