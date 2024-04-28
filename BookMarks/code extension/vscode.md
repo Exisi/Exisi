@@ -13,8 +13,6 @@
 ### Code
 ||||
 | :----: | :---- | :---- |
-|![logo](https://chouzz.gallerycdn.vsassets.io/extensions/chouzz/vscode-better-align/1.4.2/1680618981122/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align&ssr=false#overview)| Better vertical alignment with/without selection in any language for any characters or words. | 更好的垂直对齐方式，在任何语言中选择/不使用任何字符或单词的选择 |
-|||||
 |![logo](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/partial-diff/1.4.3/1618480813283/Microsoft.VisualStudio.Services.Icons.Default) <br>[Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)| Compare (diff) text selections within a file, across files, or to the clipboard | 比较文件中、文件之间或剪贴板的文本选择 |
 |||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
@@ -24,8 +22,6 @@
 |![logo](https://solnurkarim.gallery.vsassets.io/_apis/public/gallery/publisher/solnurkarim/extension/html-to-css-autocompletion/1.1.2/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[HTML to CSS autocompletion](https://marketplace.visualstudio.com/items?itemName=solnurkarim.html-to-css-autocompletion&ssr=false#review-details)| Provides completion suggestions for classes and ids from markup documents to stylesheets | 为css样式表提供class和id建议。 |
 |||||
 |![logo](https://yatki.gallerycdn.vsassets.io/extensions/yatki/vscode-surround/1.5.0/1659995379042/Microsoft.VisualStudio.Services.Icons.Default) <br>[Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround)| A simple yet powerful extension to add wrapper templates around your code blocks. | 一个简单而强大的扩展，用于在代码块周围添加包装器模板 |
-|||||
-|![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier | 使用prettier的代码格式化代码 |
 |||||
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default) <br>  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag&ssr=false#review-details) | Automatically rename paired HTML/XML tag | 自动补全成对的HTML/XML标记 |
 |||||
@@ -38,6 +34,20 @@
 |![logo](https://dominicvonk.gallerycdn.vsassets.io/extensions/dominicvonk/parameter-hints/0.2.7/1606317586094/Microsoft.VisualStudio.Services.Icons.Default) <br>[Parameter Hints](https://marketplace.visualstudio.com/items?itemName=DominicVonk.parameter-hints)|Automatic parameter hints | 自动参数提示 |
 |||||
 |![logo](https://apinix.gallerycdn.vsassets.io/extensions/apinix/indent-jump/1.0.1/1643723855570/Microsoft.VisualStudio.Services.Icons.Default) <br>[Indent Jump](https://marketplace.visualstudio.com/items?itemName=aPinix.indent-jump)| Move cursor and select contents between lines with the same indents. | 移动光标并在具有相同缩进的行之间选择内容。 |
+|||||
+
+<br>
+
+### Format
+||||
+| :----: | :---- | :---- |
+|![logo](https://mohammadbaqer.gallerycdn.vsassets.io/extensions/mohammadbaqer/better-folding/0.5.1/1676502220495/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Folding](https://marketplace.visualstudio.com/items?itemName=MohammadBaqer.better-folding)| Improve the folding experience in VS Code. | 改进 VS Code 中的折叠体验 |
+|||||
+|![logo](https://chouzz.gallerycdn.vsassets.io/extensions/chouzz/vscode-better-align/1.4.2/1680618981122/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align&ssr=false#overview)| Better vertical alignment with/without selection in any language for any characters or words. | 更好的垂直对齐方式，在任何语言中选择/不使用任何字符或单词的选择 |
+|||||
+|![logo](https://ferrierbenjamin.gallerycdn.vsassets.io/extensions/ferrierbenjamin/fold-unfold-all-icone/0.0.3/1604143911157/Microsoft.VisualStudio.Services.Icons.Default) <br>[Fold/unfold all icone](https://marketplace.visualstudio.com/items?itemName=FerrierBenjamin.fold-unfold-all-icone)| Add a fold all and unfold all status bar's icone. | 添加全部折叠和全部展开状态栏的图标 |
+|||||
+|![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier | 使用prettier的代码格式化代码 |
 |||||
 
 <br>
