@@ -13,8 +13,6 @@
 ### Code
 ||||
 | :----: | :---- | :---- |
-|![logo](https://ryu1kn.gallerycdn.vsassets.io/extensions/ryu1kn/partial-diff/1.4.3/1618480813283/Microsoft.VisualStudio.Services.Icons.Default) <br>[Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff)| Compare (diff) text selections within a file, across files, or to the clipboard | 比较文件中、文件之间或剪贴板的文本选择 |
-|||||
 |![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
 |||||
 |![logo](https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default) <br>[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)| Code snippets  for JavaScript  in ES6 syntax | ES6 语法中 JavaScript 的代码片段提示 |
@@ -41,8 +39,6 @@
 ### Format
 ||||
 | :----: | :---- | :---- |
-|![logo](https://mohammadbaqer.gallerycdn.vsassets.io/extensions/mohammadbaqer/better-folding/0.5.1/1676502220495/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Folding](https://marketplace.visualstudio.com/items?itemName=MohammadBaqer.better-folding)| Improve the folding experience in VS Code. | 改进 VS Code 中的折叠体验 |
-|||||
 |![logo](https://chouzz.gallerycdn.vsassets.io/extensions/chouzz/vscode-better-align/1.4.2/1680618981122/Microsoft.VisualStudio.Services.Icons.Default) <br>[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align&ssr=false#overview)| Better vertical alignment with/without selection in any language for any characters or words. | 更好的垂直对齐方式，在任何语言中选择/不使用任何字符或单词的选择 |
 |||||
 |![logo](https://esbenp.gallerycdn.vsassets.io/extensions/esbenp/prettier-vscode/9.9.0/1663945274632/Microsoft.VisualStudio.Services.Icons.Default) <br> [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Code formatter using prettier | 使用prettier的代码格式化代码 |
@@ -114,8 +110,6 @@
 |![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) | Icons for Visual Studio Code | 目录文件的图标显示 |
 |||||
 |![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
-|||||
-|![logo](https://kjhx.gallerycdn.vsassets.io/extensions/kjhx/vscode-lifeline/1.2.0/1607230595236/Microsoft.VisualStudio.Services.Icons.Default) <br> [Lifeline: Clock & battery](https://marketplace.visualstudio.com/items?itemName=kjhx.vscode-lifeline) | Display a clock and current battery state in the status bar. | 在状态栏中显示时钟和当前电池状态。 |
 |||||
 |![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
