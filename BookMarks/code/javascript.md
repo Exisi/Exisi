@@ -256,7 +256,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <p align="center">                                        <b>单击页面上的DOM，它将打开您的IDE并将光标放置在DOM的源代码位置。</b></p>
     <p align="center">              <i>Click the dom on the page, it will open your IDE and position the cursor to the source code location of the dom.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/code-inspector-plugin"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
