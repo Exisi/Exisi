@@ -262,7 +262,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 ### Encrypt
   <p align="center"><a href="https://github.com/crypto-js/crypto-js">
-                                                                   <b>—————<br>• crypto-js •<br>—————</b>
+                                                                   <b>————<br>• crypto-js •<br>————</b>
   </a></p>
   
   <p align="center">                                        <b>关于
@@ -270,6 +270,6 @@ cryptojs是使用最佳实践和模式在JavaScript中实现的标准和安全�
     <p align="center">                      <i>About
 CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/crypto-js"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
