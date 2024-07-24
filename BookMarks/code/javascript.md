@@ -262,7 +262,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
 
 ### Encrypt
   <p align="center"><a href="https://github.com/crypto-js/crypto-js">
-                                                                   <b>——————————<br>• crypto-js •<br>——————————</b>
+                                                                   <b>—————<br>• crypto-js •<br>—————</b>
   </a></p>
   
   <p align="center">                                        <b>关于
