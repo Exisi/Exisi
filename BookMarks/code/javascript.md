@@ -63,7 +63,7 @@
   <br><p align="center"><b>♪</b></p><br>
   
 
-### SideBar
+### TOC
   <p align="center"><a href="https://github.com/tscanlin/tocbot">
                                                     <b>————<br>• tocbot •<br>————</b>
   </a></p>
@@ -177,7 +177,7 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   <br><p align="center"><b>♪</b></p><br>
   
   <p align="center"><a href="https://github.com/davidshimjs/qrcodejs">
-                                                               <b>———<br>• qrcodejs •<br>———</b>
+                                                               <b>———<br> qrcodejs <br>———</b>
   </a></p>
   <p align="center">                                        <b>javascript 的跨浏览器 QRCode 生成器</b></p>
     <p align="center">                              <i>Cross-browser QRCode generator for javascript</i></p>
@@ -260,26 +260,15 @@ Rough Notation uses RoughJS to create a hand-drawn look and feel. Elements can b
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
-### Compatibility
-  <p align="center"><a href="https://github.com/taylorhakes/promise-polyfill">
-                                                                   <b>——————<br>• promise-polyfill •<br>——————</b>
+### Encrypt
+  <p align="center"><a href="https://github.com/crypto-js/crypto-js">
+                                                                   <b>——————————<br>• crypto-js •<br>——————————</b>
   </a></p>
   
-  <p align="center">                                        <b>轻量级的 ES6 Promise polyfill，用于浏览器和 node。兼容性 A+</b></p>
-  <p align="center">                            <i>Lightweight ES6 Promise polyfill for the browser and node. A+ Compliant.</i></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
-  </p>
-  <br><p align="center"><b>♪</b></p><br>
-
-
-  <p align="center"><a href="https://github.com/ModuleLoader/browser-es-module-loader">
-                                                                   <b>——————————<br>• browser-es-module-loader •<br>——————————</b>
-  </a></p>
-  
-  <p align="center">                                        <b>通过 Babel 在浏览器中加载 ES 模块，就像模块的 WhatWG HTML 规范一样。</b></p>
-    <p align="center">                      <i>Loads ES modules in the browser via Babel just like the WhatWG HTML specification for modules.</i></p>
+  <p align="center">                                        <b>关于
+cryptojs是使用最佳实践和模式在JavaScript中实现的标准和安全加密算法的一个不断增长的集合。它们速度快，并且具有一致且简单的界面。</b></p>
+    <p align="center">                      <i>About
+CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.</i></p>
   <p align="center">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   </p>
