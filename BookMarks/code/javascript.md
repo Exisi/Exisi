@@ -45,7 +45,7 @@
     <p align="center">             <i>Toastify is a lightweight, vanilla JS toast notification library.</i></p>
   <p align="center">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <a href="https://www.jsdelivr.com/package/npm/sweetalert2"<img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/package/npm/sweetalert2"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
