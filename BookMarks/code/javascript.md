@@ -170,8 +170,8 @@
   <p align="center">                                        <b>一个强大、现代、友好的JavaScript日期和时间封装器。</b></p>
     <p align="center">                            <i>A powerful, modern, and friendly wrapper for JavaScript dates and times.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/luxon"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/package/npm/luxon"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
