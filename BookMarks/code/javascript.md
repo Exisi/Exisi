@@ -82,12 +82,12 @@
   <p align="center">                    <b>开源 Web 富文本编辑器，开箱即用，配置简单。支持 JS Vue React</b></p>
   <p align="center"><i>Open source web rich text editor, ready to use out of the box, with simple configuration. Support JS Vue React.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <a href="https://www.npmjs.com/package/@wangeditor/editor"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/package/npm/@wangeditor/editor"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
+    <a href="https://www.wangeditor.com/v5/getting-started.html#%E6%8E%A5%E4%B8%8B%E6%9D%A5"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+    <a href="https://www.wangeditor.com/v5/for-ts.html"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a href="https://www.wangeditor.com/v5/for-frame.html#vue3"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a>
+    <a href="https://www.wangeditor.com/v5/for-frame.html#react"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
