@@ -33,7 +33,7 @@
   <p align="center">                   <b>一个漂亮、响应迅速、高度可定制和可访问（WAI-ARIA）的JavaScript弹出框替代品。零依赖。</b></p>
     <p align="center"> <i>A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <a href<="https://www.npmjs.com/package/sweetalert2"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
   </p>
   <br><p align="center"><b>♪</b></p><br>
