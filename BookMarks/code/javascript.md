@@ -98,8 +98,8 @@
   <p align="center">                            <b>Highlight.js 是用 JavaScript 编写的语法高亮器。</b></p>
     <p align="center">                    <i>Highlight.js is a syntax highlighter written in JavaScript.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/highlight.js"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/package/npm/highlight.js"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
  
