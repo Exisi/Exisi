@@ -213,7 +213,7 @@
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
-  <p align="center"><a href="https://github.com/zh-lx/code-inspector">
+  <p align="center"><a href="https://github.com/vbenjs/vite-plugin-svg-icons">
                                                                    <b>—————<br>• vite-plugin-svg-icons •<br>—————</b>
   </a></p>
   
