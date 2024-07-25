@@ -184,7 +184,7 @@
   <p align="center">                                               <b>Vue3.x的懒惰加载图像插件。</b></p>
     <p align="center">                                          <i>Lazy load image plugin for Vue 3.x.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/vue3-lazy"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   </p>
   <br><p align="center"><b>♪</b></p><br>
