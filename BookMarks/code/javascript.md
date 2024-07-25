@@ -197,7 +197,7 @@
   <p align="center">                     <b>CountUp.js 是一个无依赖的轻量级 Javascript 类，可用于快速创建以更有趣的方式显示数值数据的动画。</b></p>
     <p align="center"><i>CountUp.js is a dependency-free, lightweight Javascript class that can be used to quickly create animations that display numerical data in a more interesting way.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/countup.js"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
