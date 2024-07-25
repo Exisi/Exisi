@@ -213,6 +213,17 @@
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
+  <p align="center"><a href="https://github.com/zh-lx/code-inspector">
+                                                                   <b>—————<br>• vite-plugin-svg-icons •<br>—————</b>
+  </a></p>
+  
+  <p align="center">                                        <b>用于生成 svg 雪碧图</b></p>
+    <p align="center">              <i>Used to generate svg sprite map.</i></p>
+  <p align="center">
+    <a href="https://www.npmjs.com/package/vite-plugin-svg-icons"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  </p>
+  <br><p align="center"><b>♪</b></p><br>
+
 ### Encrypt
   <p align="center"><a href="https://github.com/crypto-js/crypto-js">
                                                                    <b>————<br>• crypto-js •<br>————</b>
