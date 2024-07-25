@@ -102,19 +102,7 @@
     <a href="https://www.jsdelivr.com/package/npm/highlight.js"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
- 
 
-### Background
-  <p align="center"><a href="https://github.com/hustcc/canvas-nest.js">
-                                                    <b>—————<br>canvas-nest.js<br>—————</b>
-  </a></p>
-  <p align="center">                                        <b>在画布上绘制网站的嵌套背景</b></p>
-    <p align="center">                            <i>A nest background of website draw on canvas</i></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
-  </p>
-  <br><p align="center"><b>♪</b></p><br>
 
 ### Icon
   <p align="center"><a href="https://github.com/FortAwesome/Font-Awesome">
