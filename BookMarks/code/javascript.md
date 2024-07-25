@@ -158,8 +158,8 @@
   <p align="center"><b>Day.js是一个简约的JavaScript库，可以解析，验证，操纵，显示和显示具有很大兼具的API的现代浏览器的日期和时间。如果您使用过Moment.js，您已经知道如何使用Day.js。</b></p>
     <p align="center">                            <i>Day.js is a minimalist JavaScript library that parses, validates, manipulates, and displays dates and times for modern browsers with a largely Moment.js-compatible API. If you use Moment.js, you already know how to use Day.js.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/dayjs"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/package/npm/dayjs"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
   
