@@ -57,8 +57,8 @@
   <p align="center">                                       <b>没有依赖项的HTML表排序。</b></p>
   <p align="center">                          <i>HTML table sorting with no dependencies.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/table-sort-js"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/?query=author%3A%20LeeWannacott"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
   
