@@ -44,7 +44,7 @@
   <p align="center">                   <b>Toastify是一个轻量级的普通JS toast通知库。</b></p>
     <p align="center">             <i>Toastify is a lightweight, vanilla JS toast notification library.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/toastify-js"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
     <a href="https://www.jsdelivr.com/package/npm/sweetalert2"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
