@@ -175,17 +175,6 @@
   </p>
   <br><p align="center"><b>♪</b></p><br>
 
-### Animation
-  <p align="center"><a href="https://github.com/formkit/auto-animate">
-                                                                   <b>———<br>• auto-animate •<br>———</b>
-  </a></p>
-  
-  <p align="center"><b>一个零配置的插入式动画实用程序，可为您的 Web 应用程序添加平滑过渡。您可以将它与 React、Vue 或任何其他 JavaScript 应用程序一起使用。</b></p>
-    <p align="center"><i>A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application..</i></p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  </p>
-  <br><p align="center"><b>♪</b></p><br>
 
 ### Loading
   <p align="center"><a href="https://github.com/ustbhuangyi/vue3-lazy">
