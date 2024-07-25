@@ -135,8 +135,8 @@
   <p align="center">                                        <b>markdown解析器和编译器。专为速度打造</b></p>
     <p align="center">                              <i>A markdown parser and compiler. Built for speed.</i></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/>
+    <a href="https://www.npmjs.com/package/marked"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href="https://www.jsdelivr.com/package/npm/marked"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
   
