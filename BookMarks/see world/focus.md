@@ -47,3 +47,13 @@
                                                          <p align="center"><i>Read:2024-07-25</i></p>
                                                             <p align="center"><i>mark:142</i></p>
   <p align="center"><b>♪</b></p><br>
+
+# Dev
+  <p align="center"><a href="https://github.com/ripienaar/free-for-dev">
+                                                            <b>———<br>• free-for-dev •<br>———</b>
+  </a></p>
+  <p align="center">                                        <b>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev</b></p>
+  </a></p>
+                                                        
+<p align="center"><b>♪</b></p><br>
+
