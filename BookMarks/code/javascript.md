@@ -235,5 +235,6 @@ cryptojs是使用最佳实践和模式在JavaScript中实现的标准和安全�
 CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.</i></p>
   <p align="center">
     <a href="https://www.npmjs.com/package/crypto-js"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
+    <a href=https://www.jsdelivr.com/package/npm/crypto-js"><img src="https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white"/></a>
   </p>
   <br><p align="center"><b>♪</b></p><br>
