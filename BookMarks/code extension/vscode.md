@@ -99,7 +99,7 @@
 |||||
 |![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
 |||||
-|![logo](https://herzshen.gallerycdn.vsassets.io/extensions/herzshen/mgtab/0.0.1/1718852455373/Microsoft.VisualStudio.Services.Icons.Default) <br> [Group Tab Tree](https://marketplace.visualstudio.com/items?itemName=Herzshen.mgtab) | Provides a powerful tab organizing function, so that you can easily organize a large number of open tabs. | 提供了强大的标签页组织功能，让你轻松组织大量打开的标签页。 |
+|![logo](https://jiapeiyao.gallerycdn.vsassets.io/extensions/jiapeiyao/tab-group/2.0.4/1696928187943/Microsoft.VisualStudio.Services.Icons.Default) <br> [Tab Group](https://marketplace.visualstudio.com/items?itemName=jiapeiyao.tab-group) | Edge's vertical Tab Group in VSCode | Edge 在 VSCode 中的垂直标签页组 |
 |||||
 
 <br>
