@@ -101,6 +101,8 @@
 |||||
 |![logo](https://jiapeiyao.gallerycdn.vsassets.io/extensions/jiapeiyao/tab-group/2.0.4/1696928187943/Microsoft.VisualStudio.Services.Icons.Default) <br> [Tab Group](https://marketplace.visualstudio.com/items?itemName=jiapeiyao.tab-group) | Edge's vertical Tab Group in VSCode | Edge 在 VSCode 中的垂直标签页组 |
 |||||
+|![logo](https://suhay.gallerycdn.vsassets.io/extensions/suhay/vscode-editor-group-minimizer/1.3.2/1614013094522/Microsoft.VisualStudio.Services.Icons.Default) <br> [Editor Group Minimizer](https://marketplace.visualstudio.com/items?itemName=suhay.vscode-editor-group-minimizer&ssr=false#overview) | Quickly save a list of all open Editor tabs and place them into an easily managed view. From there, you can see a preview of the files, restore them back into tabs, rename the group for better organization, or remove the reference list from the view. | 快速保存所有打开的 Editor 选项卡的列表，并将它们放入易于管理的视图中。从那里，您可以查看文件的预览，将它们恢复回选项卡中，重命名组以便更好地组织，或从视图中移除引用列表。 |
+|||||
 
 <br>
 
