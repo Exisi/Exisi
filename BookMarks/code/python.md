@@ -37,13 +37,20 @@
   <p align="center">        <i>Pillow adds image processing capabilities to your Python interpreter.</i></p>
   <br><p align="center"><b>♪</b></p><br>
 
+### Generate
+  <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe](https://github.com/bndr/pipreqs">
+                                                         <b>————<br>• pipreqs •<br>————</b>
+  </a></p>
+  <p align="center">                               <b>根据任何项目的导入生成 pip requirements.txt 文件</b></p>
+  <p align="center">              <i>Generate pip requirements.txt file based on imports of any project.</i></p>
+  <br><p align="center"><b>♪</b></p><br>
 
-### Pack
+### Packing
   <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe">
                                                          <b>————<br>• pyinstaller •<br>————</b>
   </a></p>
   <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
-  <p align="center">                            <i>将 Python 程序冻结（打包）为独立的可执行文件</i></p>
+  <p align="center">          <i>A .py to .exe converter using a simple graphical interface and PyInstaller in Python.</i></p>
   <br><p align="center"><b>♪</b></p><br>
   
   <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe">
