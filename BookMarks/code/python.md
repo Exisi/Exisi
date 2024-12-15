@@ -38,8 +38,8 @@
   <br><p align="center"><b>♪</b></p><br>
 
 ### Generate
-  <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe](https://github.com/bndr/pipreqs">
-                                                         <b>————<br>• pipreqs •<br>————</b>
+  <p align="center"><a href="https://github.com/bndr/pipreqs">
+                                                                 <b>——<br>• pipreqs •<br>——</b>
   </a></p>
   <p align="center">                               <b>根据任何项目的导入生成 pip requirements.txt 文件</b></p>
   <p align="center">              <i>Generate pip requirements.txt file based on imports of any project.</i></p>
@@ -47,7 +47,7 @@
 
 ### Packing
   <p align="center"><a href="https://github.com/brentvollebregt/auto-py-to-exe">
-                                                         <b>————<br>• pyinstaller •<br>————</b>
+                                                         <b>——<br>• pyinstaller •<br>——</b>
   </a></p>
   <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
   <p align="center">          <i>A .py to .exe converter using a simple graphical interface and PyInstaller in Python.</i></p>
