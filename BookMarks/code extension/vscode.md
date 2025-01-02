@@ -106,6 +106,13 @@
 
 <br>
 
+### Tab
+||||
+| :----: | :---- | :---- |
+|![logo](https://balastrong.gallerycdn.vsassets.io/extensions/balastrong/close-tabs/1.1.4/1713095688992/Microsoft.VisualStudio.Services.Icons.Default) <br>[Close Tabs - Unchanged, Diff, Left and more!](https://marketplace.visualstudio.com/items?itemName=Balastrong.close-tabs) | More tabs closing options (close to the left, close unchanged, close diff editors and more!) | 更多选项卡关闭选项（靠近左侧、关闭不变、关闭差异编辑器等！ |
+|||||
+
+
 ### Show
 ||||
 | :----: | :---- | :---- |
@@ -130,7 +137,7 @@
 
 <br>
 
-### 文件支持
+### File Support
 ||||
 | :----: | :---- | :---- |
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.15.0/1717739942488/Microsoft.VisualStudio.Services.Icons.Default)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
