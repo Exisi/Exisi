@@ -125,15 +125,15 @@
 ### Request
 ||||
 | :----: | :---- | :---- |
-|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.20.3/1711727986281/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)| Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，简洁的设计和本地存储。|
+|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.33.2/1735302653220/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)| Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，简洁的设计和本地存储。|
 |||||
 
 <br>
 
-### File Support
+### 文件支持
 ||||
 | :----: | :---- | :---- |
-|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.33.2/1735302653220/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.15.0/1717739942488/Microsoft.VisualStudio.Services.Icons.Default)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
 |||||
 |![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
 |![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
@@ -156,7 +156,7 @@
 
 ### Project
 ||||
-| :----: | :---- | :---- |
+|:----: |:---- |:---- |
 |![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.7.0/1662164797357/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | Easily switch between projects | 在项目之间轻松切换 |
 |||||
 |![logo](https://kruemelkatze.gallerycdn.vsassets.io/extensions/kruemelkatze/vscode-dashboard/2.6.0/1669153714791/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard) | Organize your workspaces in a speed-dial manner. | 以快速拨号方式组织工作区 |
