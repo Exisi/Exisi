@@ -57,3 +57,11 @@
                                                         
 <p align="center"><b>♪</b></p><br>
 
+  <p align="center"><a href=https://github.com/zhuima/awesome-cloudflare">
+                                                            <b>———<br>• awesome-cloudflare •<br>———</b>
+  </a></p>
+  <p align="center">      
+<p align="center">                                        <b>精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。</b></p>                                  <b>A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.</b></p>
+  </a></p>
+                                                        
+<p align="center"><b>♪</b></p><br>
