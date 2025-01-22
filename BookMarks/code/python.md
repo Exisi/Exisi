@@ -59,3 +59,12 @@
   <p align="center">                               <b>使用简单的图形界面将 .py 转换为 .exe</b></p>
   <p align="center">                         <i>Converts .py to .exe using a simple graphical interface</i></p>
   <br><p align="center"><b>♪</b></p><br>
+
+
+### Dev
+  <p align="center"><a href="https://github.com/cknd/stackprinter">
+                                                         <b>——————<br>• stackprinter •<br>——————</b>
+  </a></p>
+  <p align="center">                               <b>Python 的调试友好型异常</b></p>
+  <p align="center">                         <i>Debugging-friendly exceptions for Python</i></p>
+  <br><p align="center"><b>♪</b></p><br>
