@@ -61,9 +61,9 @@
   <br><p align="center"><b>♪</b></p><br>
 
 
-### Dev
+### Debugging
   <p align="center"><a href="https://github.com/cknd/stackprinter">
-                                                         <b>——————<br>• stackprinter •<br>——————</b>
+                                                         <b>———<br>• stackprinter •<br>———</b>
   </a></p>
   <p align="center">                               <b>Python 的调试友好型异常</b></p>
   <p align="center">                         <i>Debugging-friendly exceptions for Python</i></p>
