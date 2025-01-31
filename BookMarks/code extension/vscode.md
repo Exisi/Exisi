@@ -177,7 +177,7 @@
 
 <br>
 
-### Theme
+### Editor
 ||||
 | :----: | :---- | :---- |
 |![logo](https://antfu.gallerycdn.vsassets.io/extensions/antfu/file-nesting/1.1.2/1671617479765/Microsoft.VisualStudio.Services.Icons.Default) <br> [File Nesting Updater](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting) | Auto updating for Anthony's file nesting config | 自动更新Anthony的文件嵌套配置 |
