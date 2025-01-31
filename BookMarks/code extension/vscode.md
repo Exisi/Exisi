@@ -180,6 +180,14 @@
 ### Theme
 ||||
 | :----: | :---- | :---- |
+|![logo](https://antfu.gallerycdn.vsassets.io/extensions/antfu/file-nesting/1.1.2/1671617479765/Microsoft.VisualStudio.Services.Icons.Default) <br> [File Nesting Updater](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting) | Auto updating for Anthony's file nesting config | 自动更新Anthony的文件嵌套配置 |
+|||||
+
+<br>
+
+### Theme
+||||
+| :----: | :---- | :---- |
 |![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) | The background image extension for VSCode | 自定义背景图片 |
 |||||
 |![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
