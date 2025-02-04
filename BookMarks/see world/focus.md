@@ -48,7 +48,7 @@
                                                             <p align="center"><i>mark:142</i></p>
   <p align="center"><b>♪</b></p><br>
 
-# Dev
+### Dev
   <p align="center"><a href="https://github.com/ripienaar/free-for-dev">
                                                             <b>———<br>• free-for-dev •<br>———</b>
   </a></p>
@@ -65,5 +65,16 @@
   </a></p>
 
 <p align="center"><i>Read:2025.01.20</i></p>
+                                                        
+<p align="center"><b>♪</b></p><br>
+
+
+
+### Archive
+  <p align="center"><a href="https://github.com/wotakumoe/Wotaku">
+                                                            <b>———<br>• Wotaku •<br>———</b>
+  </a></p>
+  <p align="center">                                        <b>An otaku index for everything! </b></p>
+  </a></p>
                                                         
 <p align="center"><b>♪</b></p><br>
