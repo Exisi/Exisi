@@ -57,7 +57,7 @@
                                                         
 <p align="center"><b>♪</b></p><br>
 
-  <p align="center"><a href=https://github.com/zhuima/awesome-cloudflare">
+  <p align="center"><a href=https://github.com/zhuima/awesome-cloudflare>
                                                             <b>———<br>• awesome-cloudflare •<br>———</b>
   </a></p>
   <p align="center">      
