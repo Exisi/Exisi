@@ -162,15 +162,15 @@
 ### Project
 ||||
 |:----: |:---- |:---- |
-|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.7.0/1662164797357/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | Easily switch between projects | 在项目之间轻松切换 |
+|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/12.7.0/1662164797357/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) <br> <br> <a href="https://github.com/alefragnani/vscode-project-manager"><img src="https://img.shields.io/github/license/alefragnani/vscode-project-manager"></a> | Easily switch between projects | 在项目之间轻松切换 |
 |||||
-|![logo](https://kruemelkatze.gallerycdn.vsassets.io/extensions/kruemelkatze/vscode-dashboard/2.6.0/1669153714791/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard) | Organize your workspaces in a speed-dial manner. | 以快速拨号方式组织工作区 |
+|![logo](https://kruemelkatze.gallerycdn.vsassets.io/extensions/kruemelkatze/vscode-dashboard/2.6.0/1669153714791/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Dashboard](https://marketplace.visualstudio.com/items?itemName=kruemelkatze.vscode-dashboard) <br> <br> <a href="https://github.com/Kruemelkatze/vscode-dashboard"><img src="https://img.shields.io/github/license/Kruemelkatze/vscode-dashboard"></a> | Organize your workspaces in a speed-dial manner. | 以快速拨号方式组织工作区 |
 |||||
-|![logo](https://cantonios.gallerycdn.vsassets.io/extensions/cantonios/project-templates/1.2.0/1544411541636/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Templates](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) | Create and apply custom project s templates | 创建和应用自定义项目模板 |
+|![logo](https://cantonios.gallerycdn.vsassets.io/extensions/cantonios/project-templates/1.2.0/1544411541636/Microsoft.VisualStudio.Services.Icons.Default) <br> [Project Templates](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) <br> <br> <a href="https://github.com/cantonios/vscode-project-templates"><img src="https://img.shields.io/github/license/cantonios/vscode-project-templates"></a> | Create and apply custom project s templates | 创建和应用自定义项目模板 |
 |||||
-|![logo](https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/vscode-peacock/4.2.2/1663810940966/Microsoft.VisualStudio.Services.Icons.Default) <br> [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which. | 巧妙地更改工作区的工作区颜色。当你有多个VS代码实例，并且你想快速识别哪个是哪个时，这是理想的选择。 |
+|![logo](https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/vscode-peacock/4.2.2/1663810940966/Microsoft.VisualStudio.Services.Icons.Default) <br> [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) <br> <br> <a href="https://github.com/johnpapa/vscode-peacock"><img src="https://img.shields.io/github/license/johnpapa/vscode-peacock"></a> | Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which. | 巧妙地更改工作区的工作区颜色。当你有多个VS代码实例，并且你想快速识别哪个是哪个时，这是理想的选择。 |
 |||||
-|![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
+|![logo](https://peterschmalfeldt.gallerycdn.vsassets.io/extensions/peterschmalfeldt/explorer-exclude/1.3.2/1661065074537/Microsoft.VisualStudio.Services.Icons.Default) <br> [Explorer Exclude](https://marketplace.visualstudio.com/items?itemName=PeterSchmalfeldt.explorer-exclude) <br> <br> <a href="https://github.com/sfccdevops/explorer-exclude-vscode-extension"><img src="https://img.shields.io/github/license/sfccdevops/explorer-exclude-vscode-extension"></a> | Context Menu and Explorer Panel to Manage Showing & Hiding Excluded Files & Folders ( for VS Code version 1.60 or newer ) | 用于管理显示和隐藏排除的文件和文件夹的上下文菜单和资源管理器面板（适用于 VS 代码版本 1.60 或更新版本） |
 |||||
 
 <br>
@@ -178,7 +178,7 @@
 ### Editor
 ||||
 | :----: | :---- | :---- |
-|![logo](https://antfu.gallerycdn.vsassets.io/extensions/antfu/file-nesting/1.1.2/1671617479765/Microsoft.VisualStudio.Services.Icons.Default) <br> [File Nesting Updater](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting) | Auto updating for Anthony's file nesting config | 自动更新Anthony的文件嵌套配置 |
+|![logo](https://antfu.gallerycdn.vsassets.io/extensions/antfu/file-nesting/1.1.2/1671617479765/Microsoft.VisualStudio.Services.Icons.Default) <br> [File Nesting Updater](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting) <br> <br> <a href="https://github.com/antfu/vscode-file-nesting-config"><img src="https://img.shields.io/github/license/antfu/vscode-file-nesting-config"></a> | Auto updating for Anthony's file nesting config | 自动更新Anthony的文件嵌套配置 |
 |||||
 
 <br>
@@ -186,9 +186,9 @@
 ### Theme
 ||||
 | :----: | :---- | :---- |
-|![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) | The background image extension for VSCode | 自定义背景图片 |
+|![logo](https://katsute.gallerycdn.vsassets.io/extensions/katsute/code-background/2.2.0/1668218682010/Microsoft.VisualStudio.Services.Icons.Default) <br> [Background](https://marketplace.visualstudio.com/items?itemName=Katsute.code-background) <br> <br> <a href="https://github.com/KatsuteDev/Background"><img src="https://img.shields.io/github/license/KatsuteDev/Background"></a> | The background image extension for VSCode | 自定义背景图片 |
 |||||
-|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
+|![logo](https://zhuangtongfa.gallerycdn.vsassets.io/extensions/zhuangtongfa/material-theme/3.13.6/1638372489263/Microsoft.VisualStudio.Services.Icons.Default) <br> [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) <br> <br> <a href="https://github.com/Binaryify/OneDark-Pro"><img src="https://img.shields.io/github/license/Binaryify/OneDark-Pro"></a> | Atom‘s iconic One Dark theme for Visual Studio Code | Atom的Visual Studio Code标志性的一个暗主题 |
 |||||
 
 <br>
@@ -196,7 +196,7 @@
 ### Relaxing
 ||||
 | :----: | :---- | :---- |
-|![logo](https://luyuhuang.gallerycdn.vsassets.io/extensions/luyuhuang/rss/0.10.4/1648296431517/Microsoft.VisualStudio.Services.Icons.Default) <br>[RSS](https://marketplace.visualstudio.com/items?itemName=luyuhuang.rss)| An RSS reader embedded in Visual Studio Code. | 嵌入在 Visual Studio Code 中的 RSS 阅读器 |
+|![logo](https://luyuhuang.gallerycdn.vsassets.io/extensions/luyuhuang/rss/0.10.4/1648296431517/Microsoft.VisualStudio.Services.Icons.Default) <br>[RSS](https://marketplace.visualstudio.com/items?itemName=luyuhuang.rss) <br> <br> <a href="https://github.com/luyuhuang/vscode-rss"><img src="https://img.shields.io/github/license/luyuhuang/vscode-rss"></a> | An RSS reader embedded in Visual Studio Code. | 嵌入在 Visual Studio Code 中的 RSS 阅读器 |
 |||||
 
 <br>
@@ -204,5 +204,5 @@
 ### Check
 ||||
 | :----: | :---- | :---- |
-|![logo](https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.16.0/1675324749221/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)| A basic spell checker that works well with code and documents. | 一个基本的拼写检查器，适用于代码和文档。 |
+|![logo](https://streetsidesoftware.gallerycdn.vsassets.io/extensions/streetsidesoftware/code-spell-checker/2.16.0/1675324749221/Microsoft.VisualStudio.Services.Icons.Default) <br>[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) <br> <br> <a href="https://github.com/streetsidesoftware/vscode-spell-checker"><img src="https://img.shields.io/github/license/streetsidesoftware/vscode-spell-checker"></a> | A basic spell checker that works well with code and documents. | 一个基本的拼写检查器，适用于代码和文档。 |
 |||||
