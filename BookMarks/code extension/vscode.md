@@ -11,7 +11,7 @@
 ### Code
 ||||
 | :----: | :---- | :---- |
-|![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
+|![logo](https://christian-kohler.gallery.vsassets.io/_apis/public/gallery/publisher/christian-kohler/extension/path-intellisense/2.6.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense&ssr=false#review-details) <br> <br> <a href="https://github.com/ChristianKohler/PathIntellisense"><img src="https://img.shields.io/github/license/ChristianKohler/PathIntellisense"></a> | Visual Studio Code plugin that autocompletes filenames | 解析绝对路径中的文件，提供文件建议 |
 |||||
 |![logo](https://xabikos.gallerycdn.vsassets.io/extensions/xabikos/javascriptsnippets/1.8.0/1587489699375/Microsoft.VisualStudio.Services.Icons.Default) <br>[JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)| Code snippets  for JavaScript  in ES6 syntax | ES6 语法中 JavaScript 的代码片段提示 |
 |||||
