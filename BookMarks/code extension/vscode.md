@@ -114,15 +114,15 @@
 ### Show
 ||||
 | :----: | :---- | :---- |
-|![logo](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default) <br> [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size. | 此扩展将在编辑器中内联显示导入包的大小。该扩展利用 webpack 来检测导入的大小。 |
+|![logo](https://wix.gallerycdn.vsassets.io/extensions/wix/vscode-import-cost/3.3.0/1649579526643/Microsoft.VisualStudio.Services.Icons.Default) <br> [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) <br> <br> <a href="https://github.com/wix/import-cost"><img src="https://img.shields.io/github/license/wix/import-cost"></a>  | This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size. | 此扩展将在编辑器中内联显示导入包的大小。该扩展利用 webpack 来检测导入的大小。 |
 |||||
-|![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) | Icons for Visual Studio Code | 目录文件的图标显示 |
+|![logo](https://vscode-icons-team.gallerycdn.vsassets.io/extensions/vscode-icons-team/vscode-icons/11.8.0/1638640450382/Microsoft.VisualStudio.Services.Icons.Default) <br> [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons&ssr=false#review-details) <br> <br> <a href="https://github.com/vscode-icons/vscode-icons"><img src="https://img.shields.io/github/license/vscode-icons/vscode-icons"></a> | Icons for Visual Studio Code | 目录文件的图标显示 |
 |||||
-|![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
+|![logo](https://kisstkondoros.gallerycdn.vsassets.io/extensions/kisstkondoros/vscode-gutter-preview/0.29.0/1635664401283/Microsoft.VisualStudio.Services.Icons.Default) <br> [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview&ssr=false#review-details) <br> <br> <a href="https://github.com/kisstkondoros/gutter-preview"><img src="https://img.shields.io/github/license/kisstkondoros/gutter-preview"></a> | Shows image preview in the gutter and on hover | 鼠标悬停在图片路径时预览图片 |
 |||||
-|![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) | Take beautiful screenshots of your code | 漂亮的代码截图 |
+|![logo](https://adpyke.gallerycdn.vsassets.io/extensions/adpyke/codesnap/1.3.4/1625238962906/Microsoft.VisualStudio.Services.Icons.Default) <br> [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap&ssr=false#review-details) <br> <br> <a href="https://github.com/kufii/CodeSnap"><img src="https://img.shields.io/github/license/kufii/CodeSnap"></a> | Take beautiful screenshots of your code | 漂亮的代码截图 |
 |||||
-|![logo](https://alexkainzinger.gallerycdn.vsassets.io/extensions/alexkainzinger/resource-watchdog/1.2.0/1665243951204/Microsoft.VisualStudio.Services.Icons.Default) <br> [Resource Watchdog](https://marketplace.visualstudio.com/items?itemName=alexkainzinger.resource-watchdog) | Displays current CPU stats, Memory, Battery stats, and more | 显示当前CPU统计数据、内存、电池统计数据等 |
+|![logo](https://alexkainzinger.gallerycdn.vsassets.io/extensions/alexkainzinger/resource-watchdog/1.2.0/1665243951204/Microsoft.VisualStudio.Services.Icons.Default) <br> [Resource Watchdog](https://marketplace.visualstudio.com/items?itemName=alexkainzinger.resource-watchdog) <br> <br> <a href="https://github.com/alexkainzinger/resource-watchdog"><img src="https://img.shields.io/github/license/alexkainzinger/resource-watchdog"></a> | Displays current CPU stats, Memory, Battery stats, and more | 显示当前CPU统计数据、内存、电池统计数据等 |
 |||||
 
 <br>
@@ -130,7 +130,7 @@
 ### Request
 ||||
 | :----: | :---- | :---- |
-|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.33.2/1735302653220/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)| Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，简洁的设计和本地存储。|
+|![logo](https://rangav.gallerycdn.vsassets.io/extensions/rangav/vscode-thunder-client/2.33.2/1735302653220/Microsoft.VisualStudio.Services.Icons.Default) <br>[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) <br> <br> <a href="https://github.com/thunderclient/thunder-client-support"><img src="https://img.shields.io/github/license/thunderclient/thunder-client-support"></a> | Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with a focus on simplicity, clean design and local storage. | Thunder Client是由Ranga Vadhineni手工制作的Visual Studio代码的轻巧REST API客户端扩展，重点是简单，简洁的设计和本地存储。|
 |||||
 
 <br>
@@ -138,23 +138,23 @@
 ### File Support
 ||||
 | :----: | :---- | :---- |
-|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.15.0/1717739942488/Microsoft.VisualStudio.Services.Icons.Default)| Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-yaml/1.15.0/1717739942488/Microsoft.VisualStudio.Services.Icons.Default) <br>[YAML](https://marketplace.visualstudio.com/items/?itemName=redhat.vscode-yaml) <br> <br> <a href="https://github.com/redhat-developer/vscode-yaml"><img src="https://img.shields.io/github/license/redhat-developer/vscode-yaml"></a> | Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support. | 通过YAML语言服务器和内置的Kubernetes语法支持，为Visual Studio代码提供全面的YAML语言支持。|
 |||||
-|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
-|![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)| A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
+|![logo](https://redhat.gallerycdn.vsassets.io/extensions/redhat/vscode-xml/0.23.2022110204/1667378427395/Microsoft.VisualStudio.Services.Icons.Default) <br>[XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) <br> <br> <a href="https://github.com/redhat-developer/vscode-xml"><img src="https://img.shields.io/github/license/redhat-developer/vscode-xml"></a> | Support for creating and editing XML documents, based on the LemMinX XML Language Server. | 支持基于LemMinX 的 XML语言服务器创建和编辑XML文档。|
+|![logo](https://jock.gallerycdn.vsassets.io/extensions/jock/svg/1.5.0/1674899559775/Microsoft.VisualStudio.Services.Icons.Default) <br>[SVG](https://marketplace.visualstudio.com/items/?itemName=jock.svg) <br> <br> <a href="https://github.com/lishu/vscode-svg2"><img src="https://img.shields.io/github/license/lishu/vscode-svg2"></a> | A Powerful SVG Language Support Extension. Almost all the features you need to handle SVG.. | 一个强大的 SVG 语言支持扩展。处理 SVG 所需的几乎所有功能。|
 
 <br>
 
 ### Markdown
 ||||
 | :----: | :---- | :---- |
-|![logo](https://mushan.gallerycdn.vsassets.io/extensions/mushan/vscode-paste-image/1.0.4/1548255946926/Microsoft.VisualStudio.Services.Icons.Default) <br> [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) | Paste image directly from clipboard to markdown/asciidoc(or other file) | 将图像直接从剪贴板粘贴到markdown/asciidoc（或其他文件）[Ctrl+Alt+V] |
+|![logo](https://mushan.gallerycdn.vsassets.io/extensions/mushan/vscode-paste-image/1.0.4/1548255946926/Microsoft.VisualStudio.Services.Icons.Default) <br> [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image) <br> <br> <a href="https://github.com/mushanshitiancai/vscode-paste-image"><img src="https://img.shields.io/github/license/mushanshitiancai/vscode-paste-image"></a> | Paste image directly from clipboard to markdown/asciidoc(or other file) | 将图像直接从剪贴板粘贴到markdown/asciidoc（或其他文件）[Ctrl+Alt+V] |
 |||||
-|![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
+|![logo](https://yzhang.gallerycdn.vsassets.io/extensions/yzhang/markdown-all-in-one/3.4.0/1605323530575/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) <br> <br> <a href="https://github.com/yzhang-gh/vscode-markdown"><img src="https://img.shields.io/github/license/yzhang-gh/vscode-markdown"></a> | All you need to write Markdown <br> (keyboard shortcuts, table of contents, auto preview and more) | 编写 Markdown 所需的一切<br>（支持键盘快捷键、目录、自动预览等） |
 |||||
-|![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
+|![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) <br> <br> <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced"><img src="https://img.shields.io/github/license/shd101wyy/vscode-markdown-preview-enhanced"></a> | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
 |||||
-|![logo](https://gera2ld.gallerycdn.vsassets.io/extensions/gera2ld/markmap-vscode/0.0.17/1675774392182/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) | Visualize your markdown in VSCode | 在 VSCode 中可视化你的Markdown |
+|![logo](https://gera2ld.gallerycdn.vsassets.io/extensions/gera2ld/markmap-vscode/0.0.17/1675774392182/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) <br> <br> <a href="https://github.com/gera2ld/markmap-vscode"><img src="https://img.shields.io/github/license/gera2ld/markmap-vscode"></a> | Visualize your markdown in VSCode | 在 VSCode 中可视化你的Markdown |
 |||||
 
 <br>
