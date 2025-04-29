@@ -93,13 +93,13 @@
 ### Mark
 ||||
 | :----: | :---- | :---- |
-|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.3.1/1658159108155/Microsoft.VisualStudio.Services.Icons.Default) <br>[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)| Mark lines and jump to them. | 标记行并跳转到它们。|
+|![logo](https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/bookmarks/13.3.1/1658159108155/Microsoft.VisualStudio.Services.Icons.Default) <br>[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) <br> <br> <a href="https://github.com/alefragnani/vscode-bookmarks"><img src="https://img.shields.io/github/license/alefragnani/vscode-bookmarks"></a> | Mark lines and jump to them. | 标记行并跳转到它们。|
 |||||
-|![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
+|![logo](https://gruntfuggly.gallerycdn.vsassets.io/extensions/gruntfuggly/todo-tree/0.0.220/1667855306963/Microsoft.VisualStudio.Services.Icons.Default) <br> [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) <br> <br> <a href="https://github.com/Gruntfuggly/todo-tree"><img src="https://img.shields.io/github/license/Gruntfuggly/todo-tree"></a> | Show TODO, FIXME, etc. comment tags in a tree view | 在树视图中显示TODO、FIXME等注释标记 |
 |||||
-|![logo](https://jiapeiyao.gallerycdn.vsassets.io/extensions/jiapeiyao/tab-group/2.0.4/1696928187943/Microsoft.VisualStudio.Services.Icons.Default) <br> [Tab Group](https://marketplace.visualstudio.com/items?itemName=jiapeiyao.tab-group) | Edge's vertical Tab Group in VSCode | Edge 在 VSCode 中的垂直标签页组 |
+|![logo](https://jiapeiyao.gallerycdn.vsassets.io/extensions/jiapeiyao/tab-group/2.0.4/1696928187943/Microsoft.VisualStudio.Services.Icons.Default) <br> [Tab Group](https://marketplace.visualstudio.com/items?itemName=jiapeiyao.tab-group) <br> <br> <a href="https://github.com/billgoo/vscode-tab-group"><img src="https://img.shields.io/github/license/billgoo/vscode-tab-group"></a> | Edge's vertical Tab Group in VSCode | Edge 在 VSCode 中的垂直标签页组 |
 |||||
-|![logo](https://suhay.gallerycdn.vsassets.io/extensions/suhay/vscode-editor-group-minimizer/1.3.2/1614013094522/Microsoft.VisualStudio.Services.Icons.Default) <br> [Editor Group Minimizer](https://marketplace.visualstudio.com/items?itemName=suhay.vscode-editor-group-minimizer&ssr=false#overview) | Quickly save a list of all open Editor tabs and place them into an easily managed view. From there, you can see a preview of the files, restore them back into tabs, rename the group for better organization, or remove the reference list from the view. | 快速保存所有打开的 Editor 选项卡的列表，并将它们放入易于管理的视图中。从那里，您可以查看文件的预览，将它们恢复回选项卡中，重命名组以便更好地组织，或从视图中移除引用列表。 |
+|![logo](https://suhay.gallerycdn.vsassets.io/extensions/suhay/vscode-editor-group-minimizer/1.3.2/1614013094522/Microsoft.VisualStudio.Services.Icons.Default) <br> [Editor Group Minimizer](https://marketplace.visualstudio.com/items?itemName=suhay.vscode-editor-group-minimizer&ssr=false#overview) <br> <br> <a href="https://github.com/suhay/vscode-editor-group-minimizer"><img src="https://img.shields.io/github/license/suhay/vscode-editor-group-minimizer"></a> | Quickly save a list of all open Editor tabs and place them into an easily managed view. From there, you can see a preview of the files, restore them back into tabs, rename the group for better organization, or remove the reference list from the view. | 快速保存所有打开的 Editor 选项卡的列表，并将它们放入易于管理的视图中。从那里，您可以查看文件的预览，将它们恢复回选项卡中，重命名组以便更好地组织，或从视图中移除引用列表。 |
 |||||
 
 <br>
@@ -107,7 +107,7 @@
 ### Tab
 ||||
 | :----: | :---- | :---- |
-|![logo](https://balastrong.gallerycdn.vsassets.io/extensions/balastrong/close-tabs/1.1.4/1713095688992/Microsoft.VisualStudio.Services.Icons.Default) <br>[Close Tabs - Unchanged, Diff, Left and more!](https://marketplace.visualstudio.com/items?itemName=Balastrong.close-tabs) | More tabs closing options (close to the left, close unchanged, close diff editors and more!) | 更多选项卡关闭选项（靠近左侧、关闭不变、关闭差异编辑器等！ |
+|![logo](https://balastrong.gallerycdn.vsassets.io/extensions/balastrong/close-tabs/1.1.4/1713095688992/Microsoft.VisualStudio.Services.Icons.Default) <br>[Close Tabs - Unchanged, Diff, Left and more!](https://marketplace.visualstudio.com/items?itemName=Balastrong.close-tabs) <br> <br> <a href="https://github.com/Balastrong/close-tabs"><img src="https://img.shields.io/github/license/Balastrong/close-tabs"></a> | More tabs closing options (close to the left, close unchanged, close diff editors and more!) | 更多选项卡关闭选项（靠近左侧、关闭不变、关闭差异编辑器等！ |
 |||||
 
 
