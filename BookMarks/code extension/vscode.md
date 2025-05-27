@@ -32,8 +32,6 @@
 |![logo](https://apinix.gallerycdn.vsassets.io/extensions/apinix/indent-jump/1.0.1/1643723855570/Microsoft.VisualStudio.Services.Icons.Default) <br>[Indent Jump](https://marketplace.visualstudio.com/items?itemName=aPinix.indent-jump) <br> <br> <a href="https://github.com/aPinix/indent-jump-vscode"><img src="https://img.shields.io/github/license/aPinix/indent-jump-vscode"></a> | Move cursor and select contents between lines with the same indents. | 移动光标并在具有相同缩进的行之间选择内容。 |
 |||||
 
-<br>
-
 ### Format
 ||||
 | :----: | :---- | :---- |
@@ -155,6 +153,14 @@
 |![logo](https://cdn.vsassets.io/v/M197_20211215.4/_content/Header/default_icon_128.png) <br> [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced&ssr=false#review-details) <br> <br> <a href="https://github.com/shd101wyy/vscode-markdown-preview-enhanced"><img src="https://img.shields.io/github/license/shd101wyy/vscode-markdown-preview-enhanced"></a> | Markdown Preview Enhanced ported to vscode | Markdown预览增强 |
 |||||
 |![logo](https://gera2ld.gallerycdn.vsassets.io/extensions/gera2ld/markmap-vscode/0.0.17/1675774392182/Microsoft.VisualStudio.Services.Icons.Default) <br> [Markmap](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) <br> <br> <a href="https://github.com/gera2ld/markmap-vscode"><img src="https://img.shields.io/github/license/gera2ld/markmap-vscode"></a> | Visualize your markdown in VSCode | 在 VSCode 中可视化你的Markdown |
+|||||
+
+<br>
+
+### JSON
+||||
+|:----: |:---- |:---- |
+|![logo](https://malo.gallerycdn.vsassets.io/extensions/malo/copy-json-path/1.4.0/1734810387026/Microsoft.VisualStudio.Services.Icons.Default) <br>[Copy Json Path](https://marketplace.visualstudio.com/items?itemName=Malo.copy-json-path) <br> <br> <a href="https://github.com/MaloPolese/copy-json-path"><img src="https://img.shields.io/github/license/MaloPolese/copy-json-path"></a> | This extension allows you to copy and paste a jsonpath | 通过右键快速复制JSON Path |
 |||||
 
 <br>
