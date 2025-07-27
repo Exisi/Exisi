@@ -3,8 +3,6 @@
 | :----: | :---- | :---- |
 |![logo](https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vscodeintellicode/1.2.29/1666210748584/Microsoft.VisualStudio.Services.Icons.Default) <br>[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) <br> <br> <a href="https://github.com/MicrosoftDocs/intellicode"><img src="https://img.shields.io/github/license/MicrosoftDocs/IntelliCode"></a> | Provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning. | 为Visual Studio代码中的Python、TypeScript/JavaScript和Java开发人员提供了AI辅助开发功能，并基于对代码上下文的理解和机器学习进行深入了解 |
 |||||
-|![logo](https://mintlify.gallerycdn.vsassets.io/extensions/mintlify/document/2.2.1/1661411022616/Microsoft.VisualStudio.Services.Icons.Default) <br>[Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more](https://marketplace.visualstudio.com/items?itemName=mintlify.document) <br> <br> <a href="https://github.com/mintlify/vscode-docs"><img src="https://img.shields.io/github/license/mintlify/vscode-docs"></a> | AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages. | AI文档编写器，适用于JavaScript、Python、Java、Typescript和所有其他语言 |
-|||||
 
 <br>
 
@@ -22,8 +20,6 @@
 |![logo](https://formulahendry.gallerycdn.vsassets.io/extensions/formulahendry/auto-rename-tag/0.1.9/1634044270873/Microsoft.VisualStudio.Services.Icons.Default) <br>  [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag&ssr=false#review-details) <br> <br> <a href="https://github.com/formulahendry/vscode-auto-rename-tag"><img src="https://img.shields.io/github/license/formulahendry/vscode-auto-rename-tag"></a> | Automatically rename paired HTML/XML tag | 自动补全成对的HTML/XML标记 |
 |||||
 |![logo](https://britesnow.gallerycdn.vsassets.io/extensions/britesnow/vscode-toggle-quotes/0.3.6/1641325296851/Microsoft.VisualStudio.Services.Icons.Default) <br>[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes) <br> <br> <a href="https://github.com/BriteSnow/vscode-toggle-quotes"><img src="https://img.shields.io/github/license/BriteSnow/vscode-toggle-quotes"></a> | Toggle cycle " -> ' -> ` | 切换循环 “ -> ' -> ' |
-|||||
-|![logo](https://wallabyjs.gallerycdn.vsassets.io/extensions/wallabyjs/console-ninja/1.0.290/1709159763411/Microsoft.VisualStudio.Services.Icons.Default) <br>[Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)| JavaScript console.log output and runtime errors right next to your code. | JavaScript Console.log输出结果和运行时的错误就在您的代码旁边。 |
 |||||
 |![logo](https://pranaygp.gallery.vsassets.io/_apis/public/gallery/publisher/pranaygp/extension/vscode-css-peek/4.2.0/assetbyname/Microsoft.VisualStudio.Services.Icons.Default) <br>[CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek&ssr=false#review-details) <br> <br> <a href="https://github.com/pranaygp/vscode-css-peek"><img src="https://img.shields.io/github/license/pranaygp/vscode-css-peek"></a> | Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition | 允许查看 css ID 和类字符串作为从 html 文件到相应 CSS 的定义。允许查看和转到定义。 |
 |||||
